@@ -48,7 +48,7 @@ export default function DoctorInfo() {
           ) : (
             <div onClick={() => setIsPlaying(true)} className="relative w-full h-full">
               <img
-                src="/images/video-thumbnail.png"
+                src="/images/video-cover.png"
                 alt="Video Thumbnail"
                 className="w-full h-full object-cover rounded-xl transition-all duration-300 group-hover:scale-105 group-hover:brightness-75"
               />

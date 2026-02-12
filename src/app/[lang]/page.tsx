@@ -15,18 +15,20 @@ import DoctorInfo from "@/components/DoctorInfo";
 import FAQ from "@/components/FAQ";
 import Footer from "@/components/Footer";
 import Techniques from "@/components/Techniques";
+import Journey from "@/components/Journey";
 // Force static generation for Vercel
 export const dynamic = 'force-static';
 
 // Generate static params for all language routes
 export async function generateStaticParams() {
     return [
-        { lang: 'dental-implant-in-turkey' },          // English
-        { lang: 'dis-implanti-turkiye' },              // Turkish
-        { lang: 'zahnimplantat-in-der-turkei' },       // German
-        { lang: 'implante-dental-en-turquia' },        // Spanish
-        { lang: 'implant-dentaire-en-turquie' },       // French
-        { lang: 'impianto-dentale-in-turchia' },       // Italian
+        { lang: 'gastric-sleeve-in-turkey' },
+        { lang: 'tup-mide-ameliyati-turkiye' },
+        { lang: 'schlauchmagen-op-in-der-tuerkei' },
+        { lang: 'manga-gastrica-en-turquia' },
+        { lang: 'sleeve-gastrectomie-en-turquie' },
+        { lang: 'manica-gastrica-in-turchia' },
+        { lang: 'operacja-zmniejszenia-zoladka-w-turcji' },
     ];
 }
 
@@ -44,7 +46,9 @@ export default function LangPage() {
             <WhyTurkey />
             <Packages />
             <WhyDoctor />
+            <Techniques />
             <Publications />
+            <Journey />
             <ContactForm />
             <DoctorInfo />
             <FAQ />

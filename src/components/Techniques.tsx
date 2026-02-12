@@ -3,18 +3,28 @@
 import { useTranslation } from "@/lib/i18n";
 
 const techniqueIcons = [
-  "/images/techniques/closed.svg",
-  "/images/techniques/preservation.svg",
-  "/images/techniques/ultrasonic.svg",
-  "/images/techniques/revision.svg",
+  "/images/gastric sleeve.png",
+  "/images/gastric bypass.png",
+  "/images/mini gastric bypass.png",
+  "/images/revision surgery.png",
 ];
 
 export default function Techniques() {
   const { t, tArray } = useTranslation();
-  const techniques = tArray<string>("techniques.items");
+  const techniques = tArray < string > ("techniques.items");
 
   return (
     <section className="py-16 bg-gradient-to-b from-[#0c1015] to-[#151b23]">
+      <style jsx>{`
+        @keyframes float {
+          0%, 100% { transform: translateY(0px); }
+          50% { transform: translateY(-12px); }
+        }
+        .float-0 { animation: float 3s ease-in-out infinite; animation-delay: 0s; }
+        .float-1 { animation: float 3s ease-in-out infinite; animation-delay: 0.4s; }
+        .float-2 { animation: float 3s ease-in-out infinite; animation-delay: 0.8s; }
+        .float-3 { animation: float 3s ease-in-out infinite; animation-delay: 1.2s; }
+      `}</style>
       <div className="max-w-7xl mx-auto px-4">
         <h2 className="text-3xl md:text-4xl font-bold text-white text-center mb-4">
           {t("techniques.title")}
@@ -27,7 +37,7 @@ export default function Techniques() {
               key={index}
               className="text-center group cursor-pointer"
             >
-              <div className="w-32 h-32 mx-auto mb-4 bg-[#1c2530] rounded-full flex items-center justify-center border border-gray-600 shadow-[inset_0_2px_8px_rgba(0,0,0,0.3)] transition-all duration-300 group-hover:border-[#c9a96e] group-hover:shadow-lg group-hover:shadow-[#c9a96e]/20">
+              <div className={`float-${index} w-32 h-32 mx-auto mb-4 bg-[#1c2530] rounded-full flex items-center justify-center border border-gray-600 shadow-[inset_0_2px_8px_rgba(0,0,0,0.3)] transition-all duration-300 group-hover:border-[#c9a96e] group-hover:shadow-lg group-hover:shadow-[#c9a96e]/20`}>
                 <img
                   src={techniqueIcons[index]}
                   alt={technique}

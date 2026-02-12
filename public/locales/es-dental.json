@@ -15,7 +15,8 @@
         "formTitle": "Consulta Gratuita",
         "formNamePlaceholder": "Su Nombre",
         "formEmailPlaceholder": "Su Correo Electrónico",
-        "formSubmit": "Enviar"
+        "formSubmit": "Enviar",
+        "doctorSpecialty": "Cirugía Bariátrica y Metabólica"
     },
     "beforeAfter": {
         "title": "¡Mira estas increíbles",

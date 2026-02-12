@@ -3,12 +3,13 @@ import type { NextRequest } from 'next/server';
 
 // Desteklenen dil kodları ve URL slug'ları
 const supportedRoutes: Record<string, string> = {
-    'dental-implant-in-turkey': 'en',              // English
-    'dis-implanti-turkiye': 'tr',                  // Turkish
-    'zahnimplantat-in-der-turkei': 'de',           // German
-    'implante-dental-en-turquia': 'es',            // Spanish
-    'implant-dentaire-en-turquie': 'fr',           // French
-    'impianto-dentale-in-turchia': 'it',           // Italian
+    'gastric-sleeve-in-turkey': 'en',
+    'tup-mide-ameliyati-turkiye': 'tr',
+    'schlauchmagen-op-in-der-tuerkei': 'de',
+    'manga-gastrica-en-turquia': 'es',
+    'sleeve-gastrectomie-en-turquie': 'fr',
+    'manica-gastrica-in-turchia': 'it',
+    'operacja-zmniejszenia-zoladka-w-turcji': 'pl',
 };
 
 export function middleware(request: NextRequest) {

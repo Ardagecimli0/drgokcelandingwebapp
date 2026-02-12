@@ -6,7 +6,7 @@
 export function extractLocaleFromSlug(slug: string): string {
     if (!slug || slug === '') return 'en';
 
-    const validLocales = ['en', 'tr', 'de', 'es', 'fr', 'it'];
+    const validLocales = ['en', 'tr', 'de', 'es', 'fr', 'it', 'pl'];
 
     // Eğer direkt dil kodu ise (en, tr, de, es, fr, it)
     if (validLocales.includes(slug)) {
@@ -15,12 +15,13 @@ export function extractLocaleFromSlug(slug: string): string {
 
     // URL slug'dan dil kodunu eşleştir
     const slugToLocale: Record<string, string> = {
-        'dental-implant-in-turkey': 'en',
-        'dis-implanti-turkiye': 'tr',
-        'zahnimplantat-in-der-turkei': 'de',
-        'implante-dental-en-turquia': 'es',
-        'implant-dentaire-en-turquie': 'fr',
-        'impianto-dentale-in-turchia': 'it',
+        'gastric-sleeve-in-turkey': 'en',
+        'tup-mide-ameliyati-turkiye': 'tr',
+        'schlauchmagen-op-in-der-tuerkei': 'de',
+        'manga-gastrica-en-turquia': 'es',
+        'sleeve-gastrectomie-en-turquie': 'fr',
+        'manica-gastrica-in-turchia': 'it',
+        'operacja-zmniejszenia-zoladka-w-turcji': 'pl',
     };
 
     if (slugToLocale[slug]) {

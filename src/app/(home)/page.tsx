@@ -37,7 +37,6 @@ export default function HomePage() {
             <Hero />
             <PressLogos />
             <Stats />
-            <Techniques />
             <BeforeAfter />
             <HospitalHotel />
             <Testimonials />
@@ -45,8 +44,9 @@ export default function HomePage() {
             <WhyTurkey />
             <Packages />
             <WhyDoctor />
-            <Journey />
+            <Techniques />
             <Publications />
+            <Journey />
             <ContactForm />
             <DoctorInfo />
             <FAQ />

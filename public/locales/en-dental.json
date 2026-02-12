@@ -15,7 +15,8 @@
         "formTitle": "Free Consultation",
         "formNamePlaceholder": "Your Name",
         "formEmailPlaceholder": "Your Email",
-        "formSubmit": "Submit"
+        "formSubmit": "Submit",
+        "doctorSpecialty": "Bariatric and Metabolic Surgery"
     },
     "beforeAfter": {
         "title": "Check Out These Amazing",

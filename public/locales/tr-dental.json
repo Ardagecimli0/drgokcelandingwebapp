@@ -15,7 +15,8 @@
         "formTitle": "Ücretsiz Konsültasyon",
         "formNamePlaceholder": "Adınız",
         "formEmailPlaceholder": "E-posta Adresiniz",
-        "formSubmit": "Gönder"
+        "formSubmit": "Gönder",
+        "doctorSpecialty": "Obezite ve Metabolik Cerrahi"
     },
     "beforeAfter": {
         "title": "Bu Muhteşem 'Öncesi & Sonrası'",

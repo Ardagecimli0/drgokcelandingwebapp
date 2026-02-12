@@ -1,21 +1,23 @@
 // URL slug'dan locale'e ve locale'den URL slug'a çeviri yardımcıları
 
 export const localeToSlug: Record<string, string> = {
-    'en': 'dental-implant-in-turkey',
-    'tr': 'dis-implanti-turkiye',
-    'de': 'zahnimplantat-in-der-turkei',
-    'es': 'implante-dental-en-turquia',
-    'fr': 'implant-dentaire-en-turquie',
-    'it': 'impianto-dentale-in-turchia',
+    'en': 'gastric-sleeve-in-turkey',
+    'tr': 'tup-mide-ameliyati-turkiye',
+    'de': 'schlauchmagen-op-in-der-tuerkei',
+    'es': 'manga-gastrica-en-turquia',
+    'fr': 'sleeve-gastrectomie-en-turquie',
+    'it': 'manica-gastrica-in-turchia',
+    'pl': 'operacja-zmniejszenia-zoladka-w-turcji',
 };
 
 export const slugToLocale: Record<string, string> = {
-    'dental-implant-in-turkey': 'en',
-    'dis-implanti-turkiye': 'tr',
-    'zahnimplantat-in-der-turkei': 'de',
-    'implante-dental-en-turquia': 'es',
-    'implant-dentaire-en-turquie': 'fr',
-    'impianto-dentale-in-turchia': 'it',
+    'gastric-sleeve-in-turkey': 'en',
+    'tup-mide-ameliyati-turkiye': 'tr',
+    'schlauchmagen-op-in-der-tuerkei': 'de',
+    'manga-gastrica-en-turquia': 'es',
+    'sleeve-gastrectomie-en-turquie': 'fr',
+    'manica-gastrica-in-turchia': 'it',
+    'operacja-zmniejszenia-zoladka-w-turcji': 'pl',
 };
 
 export function getSlugFromPath(pathname: string): string {
@@ -30,5 +32,5 @@ export function getLocaleFromPath(pathname: string): string {
 }
 
 export function getSlugFromLocale(locale: string): string {
-    return localeToSlug[locale] || 'dental-implant-in-turkey';
+    return localeToSlug[locale] || 'gastric-sleeve-in-turkey';
 }

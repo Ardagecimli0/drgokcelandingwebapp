@@ -10,6 +10,7 @@ import deDental from "../../../public/locales/de-dental.json";
 import esDental from "../../../public/locales/es-dental.json";
 import frDental from "../../../public/locales/fr-dental.json";
 import itDental from "../../../public/locales/it-dental.json";
+import plDental from "../../../public/locales/pl-dental.json";
 
 // Translations map
 const translations: Record<string, typeof enDental> = {
@@ -19,6 +20,7 @@ const translations: Record<string, typeof enDental> = {
   es: esDental,
   fr: frDental,
   it: itDental,
+  pl: plDental,
 };
 
 // Force static generation for Vercel
@@ -45,12 +47,13 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 
 export async function generateStaticParams() {
   return [
-    { lang: 'dental-implant-in-turkey' },          // English
-    { lang: 'dis-implanti-turkiye' },              // Turkish
-    { lang: 'zahnimplantat-in-der-turkei' },       // German
-    { lang: 'implante-dental-en-turquia' },        // Spanish
-    { lang: 'implant-dentaire-en-turquie' },       // French
-    { lang: 'impianto-dentale-in-turchia' },       // Italian
+    { lang: 'gastric-sleeve-in-turkey' },
+    { lang: 'tup-mide-ameliyati-turkiye' },
+    { lang: 'schlauchmagen-op-in-der-tuerkei' },
+    { lang: 'manga-gastrica-en-turquia' },
+    { lang: 'sleeve-gastrectomie-en-turquie' },
+    { lang: 'manica-gastrica-in-turchia' },
+    { lang: 'operacja-zmniejszenia-zoladka-w-turcji' },
   ];
 }
 
