@@ -33,7 +33,7 @@ export default function Publications() {
               {/* WhatsApp Butonu */}
               <div className="flex justify-center lg:justify-start">
                 <a
-                  href="https://api.whatsapp.com/send?phone=905494755287&text=What%20are%20the%20options%20and%20pricing%20for%20dental%20treatment"
+                  href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-3 bg-[#2ecc71] hover:bg-[#27ae60] px-8 py-3 md:px-10 md:py-4 rounded-full text-white font-bold text-base md:text-lg transition-all duration-300 hover:scale-105 shadow-[0_0_20px_rgba(46,204,113,0.4)]"
@@ -54,7 +54,7 @@ export default function Publications() {
           </div>
 
           {/* Sağ Görsel Alanı - Mobilde altta kalır ve yükseklik alır */}
-          <div className="relative h-[350px] md:h-[500px] lg:h-auto w-full group overflow-hidden order-2 lg:order-2">
+          <div className="relative h-[280px] md:h-[400px] lg:h-auto w-full group overflow-hidden order-2 lg:order-2">
             <Image
               src="/images/makaleler.webp"
               alt="Published Articles"

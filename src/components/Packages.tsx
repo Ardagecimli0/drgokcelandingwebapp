@@ -8,15 +8,15 @@ export default function Packages() {
   const packages = [
     {
       title: t('packages.gastricSleeve.title'),
-      features: tArray < string > ('packages.gastricSleeve.features'),
+      features: tArray<string>('packages.gastricSleeve.features'),
     },
     {
       title: t('packages.gastricBypass.title'),
-      features: tArray < string > ('packages.gastricBypass.features'),
+      features: tArray<string>('packages.gastricBypass.features'),
     },
     {
       title: t('packages.miniGastricBypass.title'),
-      features: tArray < string > ('packages.miniGastricBypass.features'),
+      features: tArray<string>('packages.miniGastricBypass.features'),
     },
   ];
 
@@ -42,7 +42,7 @@ export default function Packages() {
                   {pkg.features.map((feature, i) => (
                     <li key={i}>
                       <a
-                        href="https://api.whatsapp.com/send?phone=905494755287&text=What%20are%20the%20options%20and%20pricing%20for%20dental%20treatment"
+                        href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-start gap-3 text-gray-300 text-sm hover:text-white transition-all cursor-pointer underline underline-offset-4 decoration-[#c9a96e]/40 hover:decoration-[#c9a96e]"
@@ -54,7 +54,7 @@ export default function Packages() {
                   ))}
                 </ul>
                 <a
-                  href="https://api.whatsapp.com/send?phone=905494755287&text=What%20are%20the%20options%20and%20pricing%20for%20dental%20treatment"
+                  href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-[#22c55e] hover:bg-[#1da850] py-4 px-6 rounded-full text-white font-bold text-center flex items-center justify-center gap-2 transition-all duration-300 hover:scale-105 shadow-lg"

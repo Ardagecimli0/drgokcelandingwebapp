@@ -16,7 +16,7 @@ export default function HospitalHotel() {
             {/* Resim alanı büyütüldü: max-w-lg */}
             <div className="relative rounded-3xl overflow-hidden mb-8 w-full max-w-lg shadow-2xl border border-transparent hover:border-[#b08d57]/30 transition-all duration-300 hover:-translate-y-4 group">
               <Image
-                src="/images/hospital.png"
+                src="/images/hospital.webp"
                 alt="CevreDent Dental Clinic"
                 width={600} // Genişlik artırıldı
                 height={450} // Yükseklik artırıldı
@@ -47,7 +47,7 @@ export default function HospitalHotel() {
             {/* Resim alanı büyütüldü: max-w-lg */}
             <div className="relative rounded-3xl overflow-hidden mb-8 w-full max-w-lg shadow-2xl border border-transparent hover:border-[#b08d57]/30 transition-all duration-300 hover:-translate-y-4 group">
               <Image
-                src="/images/hotel.png"
+                src="/images/hotel.webp"
                 alt="Istanbul Milord Hotel"
                 width={600}
                 height={450}

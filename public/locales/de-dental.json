@@ -42,6 +42,10 @@
                 "title": "Gesundheitsberater",
                 "description": "Förderung gesunder Lebensstiländerungen"
             },
+            "labTechnician": {
+                "title": "Gesundheitsberater",
+                "description": "Förderung gesunder Lebensstiländerungen"
+            },
             "author": {
                 "title": "Veröffentlichter Experte",
                 "description": "Autor für medizinische Fachzeitschriften und Gesundheitspublikationen"

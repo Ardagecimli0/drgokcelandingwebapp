@@ -42,6 +42,10 @@
                 "title": "Sağlık Danışmanı",
                 "description": "Sağlıklı yaşam tarzı değişikliklerini destekler"
             },
+            "labTechnician": {
+                "title": "Sağlık Danışmanı",
+                "description": "Sağlıklı yaşam tarzı değişikliklerini destekler"
+            },
             "author": {
                 "title": "Yayınlanmış Uzman",
                 "description": "Tıp dergileri ve sağlık yayınlarına katkıda bulunan yazar"

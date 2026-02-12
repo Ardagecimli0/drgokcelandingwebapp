@@ -42,6 +42,10 @@
                 "title": "Défenseur de la Santé",
                 "description": "Promouvoir des changements de mode de vie sains"
             },
+            "labTechnician": {
+                "title": "Défenseur de la Santé",
+                "description": "Promouvoir des changements de mode de vie sains"
+            },
             "author": {
                 "title": "Expert Publié",
                 "description": "Contributeur aux revues médicales et publications de santé"

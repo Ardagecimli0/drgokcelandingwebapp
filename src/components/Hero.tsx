@@ -154,7 +154,7 @@ export default function Hero() {
           {/* Sol Taraf - Doktor Görseli (Düzenlenen Kısım) */}
           <div className="lg:col-span-5 relative">
             <Image
-              src="/images/aa.png"
+              src="/images/doctor.webp"
               alt="Dr. Gokce"
               width={500}
               height={600}
@@ -166,7 +166,7 @@ export default function Hero() {
             {/* Free Consultation Button */}
             <div className="mt-6 flex justify-center">
               <a
-                href="https://api.whatsapp.com/send?phone=905494755287&text=What%20are%20the%20options%20and%20pricing%20for%20dental%20treatment"
+                href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#25D366] hover:bg-[#1eb956] px-8 py-4 rounded-full text-white font-bold transition-all duration-300 hover:scale-105 shadow-lg"
@@ -290,7 +290,7 @@ export default function Hero() {
 
       {/* WhatsApp Butonu */}
       <a
-        href="https://api.whatsapp.com/send?phone=905494755287&text=What%20are%20the%20options%20and%20pricing%20for%20dental%20treatment"
+        href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
         target="_blank"
         className="fixed bottom-6 right-6 z-50 w-14 h-14 bg-[#25D366] rounded-full flex items-center justify-center shadow-lg hover:scale-110 transition-transform"
       >

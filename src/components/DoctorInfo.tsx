@@ -1,9 +1,11 @@
 "use client";
 
+import { useState } from "react";
 import { useTranslation } from "@/lib/i18n";
 
 export default function DoctorInfo() {
   const { t } = useTranslation();
+  const [isPlaying, setIsPlaying] = useState(false);
 
   const roles = [
     {
@@ -35,13 +37,30 @@ export default function DoctorInfo() {
     <section className="py-16 bg-gradient-to-b from-[#1c2530] to-[#151b23]">
       <div className="max-w-7xl mx-auto px-4">
         {/* Doctor Video */}
-        <div className="max-w-2xl mx-auto mb-12 aspect-video group cursor-pointer">
-          <iframe
-            src="https://www.youtube.com/embed/OnHiHPa3ytY"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-            className="w-full h-full rounded-xl transition-all duration-300 group-hover:scale-105 group-hover:shadow-xl group-hover:shadow-[#c9a96e]/30"
-          />
+        <div className="max-w-2xl mx-auto mb-12 aspect-video group cursor-pointer relative rounded-xl overflow-hidden">
+          {isPlaying ? (
+            <iframe
+              src="https://www.youtube.com/embed/OnHiHPa3ytY?autoplay=1"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              className="w-full h-full rounded-xl"
+            />
+          ) : (
+            <div onClick={() => setIsPlaying(true)} className="relative w-full h-full">
+              <img
+                src="/images/video-thumbnail.png"
+                alt="Video Thumbnail"
+                className="w-full h-full object-cover rounded-xl transition-all duration-300 group-hover:scale-105 group-hover:brightness-75"
+              />
+              <div className="absolute inset-0 flex items-center justify-center">
+                <div className="w-16 h-16 bg-red-600 rounded-full flex items-center justify-center shadow-lg transition-transform duration-300 group-hover:scale-110">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="white">
+                    <path d="M8 5v14l11-7z" />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          )}
         </div>
 
         {/* Roles */}
@@ -82,7 +101,7 @@ export default function DoctorInfo() {
             </a>
             <span className="text-gray-400 text-sm">{t('doctorInfo.or')}</span>
             <a
-              href="https://api.whatsapp.com/send?phone=905494755287&text=What%20are%20the%20options%20and%20pricing%20for%20dental%20treatment"
+              href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 w-full max-w-xs px-8 py-4 rounded-full border-2 border-[#25D366] text-[#25D366] font-semibold hover:bg-[#25D366]/10 transition active:scale-95"
@@ -111,7 +130,7 @@ export default function DoctorInfo() {
             </a>
             <span className="flex items-center text-gray-400">{t('doctorInfo.or')}</span>
             <a
-              href="https://api.whatsapp.com/send?phone=905494755287&text=What%20are%20the%20options%20and%20pricing%20for%20dental%20treatment"
+              href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-4 rounded-full border border-[#25D366] text-[#25D366] font-semibold hover:bg-[#25D366]/10 transition active:scale-95"

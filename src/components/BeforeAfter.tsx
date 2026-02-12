@@ -5,14 +5,13 @@ import { useState, useEffect } from "react"; // useEffect eklendi
 import { useTranslation } from "@/lib/i18n";
 
 const beforeAfterImages = [
-  "/images/before-after/1.png",
-  "/images/before-after/2.png",
-  "/images/before-after/3.png",
-  "/images/before-after/4.png",
-  "/images/before-after/5.png",
-  "/images/before-after/6.png",
-  "/images/before-after/7.png",
-  "/images/before-after/8.png",
+  "/images/before-after/bf1.png",
+  "/images/before-after/bf2.png",
+  "/images/before-after/bf3.png",
+  "/images/before-after/bf5.png",
+  "/images/before-after/bf6.png",
+  "/images/before-after/bf7.png",
+  "/images/before-after/bf8.webp",
 ];
 
 export default function BeforeAfter() {
@@ -111,7 +110,7 @@ export default function BeforeAfter() {
 
             <div className="mt-8">
               <a
-                href="https://api.whatsapp.com/send?phone=905494755287&text=What%20are%20the%20options%20and%20pricing%20for%20dental%20treatment"
+                href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#22c55e] px-8 py-4 rounded-full text-white font-bold hover:scale-105 transition-transform shadow-lg"

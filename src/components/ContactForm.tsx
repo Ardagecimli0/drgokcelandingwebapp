@@ -223,7 +223,7 @@ export default function ContactForm() {
 
             {/* Sağ Taraf - Resim */}
             <div className="relative w-full flex justify-center items-center py-8">
-              <div className="relative w-full max-w-[500px] h-[450px] md:h-[550px] rounded-3xl overflow-hidden border-4 border-gray-700/50 shadow-2xl group cursor-pointer transition-all duration-500 hover:shadow-[#c9a96e]/30">
+              <div className="relative w-full max-w-[500px] h-[450px] md:h-[550px] overflow-hidden group cursor-pointer transition-all duration-500">
                 <Image
                   src="/images/fg.png"
                   alt="Dr. Can Kalkavan"

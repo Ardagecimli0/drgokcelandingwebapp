@@ -16,8 +16,8 @@ export default function Footer() {
           {/* Sol Taraf - Logo ve Metin (Tam Sola Hizalı) */}
           <div className="flex flex-col gap-5 items-start">
             <Image
-              src="/images/cevre-dental-logo.png"
-              alt="Cevre Dental Logo"
+              src="/images/main-logo.png"
+              alt="Logo"
               width={200} // Görseldeki gibi biraz daha belirgin olması için artırıldı
               height={70}
               className="h-16 w-auto object-contain -ml-1" // Logo içindeki boşluğu kompanse etmek için -ml-1

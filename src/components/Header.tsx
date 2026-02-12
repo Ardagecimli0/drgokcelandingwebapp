@@ -26,8 +26,8 @@ export default function Header() {
         {/* Logo */}
         <div className="flex items-center">
           <Image
-            src="/images/cevre-dental-logo.png"
-            alt="Cevre Dental Logo"
+            src="/images/main-logo.png"
+            alt="Logo"
             width={150}
             height={60}
             className={`transition-all duration-300 ${isScrolled ? "h-9 md:h-10 w-auto" : "h-12 md:h-14 w-auto"
@@ -37,7 +37,7 @@ export default function Header() {
 
         {/* CTA Button */}
         <a
-          href="https://api.whatsapp.com/send?phone=905494755287&text=What%20are%20the%20options%20and%20pricing%20for%20dental%20treatment"
+          href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
           target="_blank"
           rel="noopener noreferrer"
           className={`btn-green rounded-full text-white font-semibold flex items-center gap-2 transition-all duration-300 ${isScrolled ? "px-4 py-2 text-sm" : "px-6 py-3 text-base"

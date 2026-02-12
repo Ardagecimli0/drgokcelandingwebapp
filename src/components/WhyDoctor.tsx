@@ -1,9 +1,11 @@
 "use client";
 
+import { useState } from "react";
 import { useTranslation } from "@/lib/i18n";
 
 export default function WhyDoctor() {
   const { t } = useTranslation();
+  const [isPlaying, setIsPlaying] = useState(false);
 
   const features = [
     {
@@ -64,7 +66,7 @@ export default function WhyDoctor() {
 
             <div className="mt-8">
               <a
-                href="https://api.whatsapp.com/send?phone=905494755287&text=What%20are%20the%20options%20and%20pricing%20for%20dental%20treatment"
+                href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#22c55e] hover:bg-[#1da850] px-8 py-4 rounded-full text-white font-bold transition-all duration-300 hover:scale-105 shadow-lg"
@@ -79,13 +81,30 @@ export default function WhyDoctor() {
 
           {/* Right Side - Video (Zıplama Efekti Eklendi) */}
           <div className="relative aspect-video rounded-3xl overflow-hidden shadow-2xl transition-all duration-500 ease-out hover:-translate-y-4 hover:shadow-[0_20px_50px_rgba(201,169,110,0.2)]">
-            <iframe
-              src="https://www.youtube.com/embed/uQn1sesNkMI"
-              title="CevreDent Dental Clinic"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-              className="w-full h-full"
-            />
+            {isPlaying ? (
+              <iframe
+                src="https://player.vimeo.com/video/1017836538?badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1"
+                title="Doc. Dr. Feridun Gökçe"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+                className="w-full h-full"
+              />
+            ) : (
+              <div onClick={() => setIsPlaying(true)} className="relative w-full h-full cursor-pointer group">
+                <img
+                  src="/images/why-doctor-thumbnail.png"
+                  alt="Video Thumbnail"
+                  className="w-full h-full object-cover transition-all duration-300 group-hover:scale-105 group-hover:brightness-75"
+                />
+                <div className="absolute inset-0 flex items-center justify-center">
+                  <div className="w-16 h-16 bg-red-600 rounded-full flex items-center justify-center shadow-lg transition-transform duration-300 group-hover:scale-110">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="white">
+                      <path d="M8 5v14l11-7z" />
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            )}
           </div>
 
         </div>

@@ -3,10 +3,10 @@
 import { useTranslation } from "@/lib/i18n";
 
 const videos = [
-    { id: "v2ZA0P2OYio" },
-    { id: "Wv50Iyy0Bk0" },
-    { id: "eemE3Z3i2IA" },
-    { id: "AIjifEPPHFQ" },
+    { id: "fwGgt_vT2jM" },
+    { id: "dRQ_pzsFLks" },
+    { id: "MPjcoRqleR0" },
+    { id: "edJ3hJdmF-c" },
 ];
 
 export default function RhinoplastyBeforeAfterYT() {
