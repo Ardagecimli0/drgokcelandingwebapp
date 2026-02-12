@@ -1,0 +1,274 @@
+{
+    "meta": {
+        "title": "Rękawowa resekcja żołądka w Turcji | Doc. Dr. Feridun Gökçe",
+        "description": "Przystępna cenowo operacja zmniejszenia żołądka w Stambule od 2490€. Prowadzona przez Doc. Dr. Feridun Gökçe z ponad 30-letnim doświadczeniem. Bezpłatna konsultacja i wysoka skuteczność.",
+        "keywords": "rękawowa resekcja żołądka turcja, operacja odchudzająca stambuł, chirurgia bariatryczna turcja, bypass żołądka turcja, Doc Dr Feridun Gökçe, tania operacja zmniejszenia żołądka"
+    },
+    "header": {
+        "ctaMobile": "Bezpłatna Konsultacja",
+        "ctaDesktop": "Uzyskaj spersonalizowaną konsultację bariatryczną"
+    },
+    "hero": {
+        "title": "Rękawowa resekcja żołądka w Turcji",
+        "subtitle": "Od 2490€",
+        "subtitleLine2": "Tysiące pomyślnie wykonanych zabiegów rękawowej resekcji żołądka",
+        "formTitle": "Bezpłatna Konsultacja",
+        "formNamePlaceholder": "Twoje Imię",
+        "formEmailPlaceholder": "Twój E-mail",
+        "formSubmit": "Wyślij"
+    },
+    "beforeAfter": {
+        "title": "Zobacz te niesamowite",
+        "titleLine2": "transformacje",
+        "titleLine3": "'Przed i Po'!",
+        "description": "Poznaj naturalne transformacje osiągnięte dzięki wiedzy i doświadczeniu Doc. Dr. Feridun Gökçe.",
+        "ctaButton": "Bezpłatna Konsultacja"
+    },
+    "contactForm": {
+        "title": "Uzyskaj Bezpłatną Konsultację",
+        "subtitle": "Wypełnij formularz, a wkrótce się z Tobą skontaktujemy",
+        "namePlaceholder": "Twoje Imię",
+        "phonePlaceholder": "Twój Numer Telefonu",
+        "emailPlaceholder": "Twój E-mail",
+        "submit": "Wyślij"
+    },
+    "doctorInfo": {
+        "roles": {
+            "surgeon": {
+                "title": "Chirurg Bariatryczny",
+                "description": "Specjalista Chirurgii Odchudzającej"
+            },
+            "healthAdvocate": {
+                "title": "Rzecznik Zdrowia",
+                "description": "Promowanie zdrowych zmian stylu życia"
+            },
+            "author": {
+                "title": "Publikujący Ekspert",
+                "description": "Współautor artykułów w czasopismach medycznych i publikacjach zdrowotnych"
+            }
+        },
+        "ctaTitle": "Zaplanuj swoją podróż bariatryczną z",
+        "ctaClinicName": "Doc. Dr. Feridun Gökçe",
+        "freeConsultation": "Bezpłatna Konsultacja",
+        "or": "lub",
+        "whatsapp": "WhatsApp"
+    },
+    "faq": {
+        "title": "Często Zadawane Pytania",
+        "questions": [
+            {
+                "question": "Co to jest rękawowa resekcja żołądka?",
+                "answer": "Rękawowa resekcja żołądka, znana również jako sleeve gastrectomy, to zabieg bariatryczny polegający na usunięciu około 80% żołądka, pozostawiając go w kształcie banana (rękawa). Zmniejsza to pojemność żołądka i obniża poziom hormonów głodu, co prowadzi do znacznej utraty wagi."
+            },
+            {
+                "question": "Czy jestem dobrym kandydatem do rękawowej resekcji żołądka?",
+                "answer": "Idealni kandydaci to osoby ze wskaźnikiem BMI wynoszącym 35 lub więcej, które bezskutecznie próbowały innych metod odchudzania i są gotowe na zmianę stylu życia. Szczegółowa konsultacja i ocena stanu zdrowia pozwolą ustalić, czy ten zabieg jest dla Ciebie odpowiedni."
+            },
+            {
+                "question": "Jak długo trwa operacja?",
+                "answer": "Operacja trwa zazwyczaj od 1 do 2 godzin i jest wykonywana laparoskopowo przez niewielkie nacięcia, co skutkuje minimalnymi bliznami i szybszym powrotem do zdrowia."
+            },
+            {
+                "question": "Jak długo trwa okres rekonwalescencji?",
+                "answer": "Większość pacjentów pozostaje w szpitalu przez 2-3 dni i może wrócić do pracy w ciągu 2-3 tygodni. Pełna regeneracja i adaptacja do nowych nawyków żywieniowych zajmuje zazwyczaj 4-6 tygodni."
+            },
+            {
+                "question": "Jakiej utraty wagi mogę się spodziewać?",
+                "answer": "Większość pacjentów traci 60-70% nadmiaru masy ciała w ciągu pierwszego roku po operacji. Wyniki różnią się w zależności od indywidualnego zaangażowania w dietę, ćwiczenia i zmiany stylu życia."
+            },
+            {
+                "question": "Czy po operacji będę musiał stosować specjalną dietę?",
+                "answer": "Tak, będziesz stosować dietę stopniową, zaczynając od płynów, następnie pokarmów miksowanych (puree), miękkich, a na końcu stałych. Nasz dietetyk zapewni kompleksowy plan żywieniowy i stałe wsparcie."
+            }
+        ]
+    },
+    "footer": {
+        "description": "Ekspert chirurgii bariatrycznej, specjalizujący się w rękawowej resekcji żołądka i chirurgii odchudzającej.",
+        "copyright": "Copyright © 2025 Doc. Dr. Feridun Gökçe - Wszelkie Prawa Zastrzeżone",
+        "address": "Szpital Rami w Stambule, Stambuł, Turcja",
+        "email": "info@drferidungokce.com",
+        "phone": "+90 546 763 3721"
+    },
+    "hospitalHotel": {
+        "clinicBadge": "SZPITAL",
+        "hotelBadge": "HOTEL",
+        "clinicSubtitle": "Nasi goście są zakwaterowani w",
+        "clinicName": "Szpitalu Rami w Stambule",
+        "hotelSubtitle": "Nasi goście zatrzymują się w",
+        "hotelName": "Istanbul The Kailyn Hotels"
+    },
+    "packages": {
+        "title": "NASZE PAKIETY",
+        "getMoreInfo": "Uzyskaj więcej informacji",
+        "gastricSleeve": {
+            "title": "Rękawowa Resekcja Żołądka",
+            "features": [
+                "Zmniejsza rozmiar żołądka o 80%",
+                "Skuteczna, długoterminowa utrata wagi",
+                "Poprawia stan zdrowia związany z otyłością",
+                "Małoinwazyjny zabieg laparoskopowy",
+                "Szybki czas regeneracji",
+                "Brak wszczepionych ciał obcych",
+                "Zmniejsza produkcję hormonów głodu"
+            ]
+        },
+        "gastricBypass": {
+            "title": "Bypass Żołądka",
+            "features": [
+                "Tworzy mały woreczek żołądkowy",
+                "Omija część jelita cienkiego",
+                "Doskonałe wyniki odchudzania",
+                "Poprawia sytuację w cukrzycy typu 2",
+                "Długoterminowe korzyści zdrowotne",
+                "Udowodniona skuteczność",
+                "Kompleksowe wsparcie pooperacyjne"
+            ]
+        },
+        "miniGastricBypass": {
+            "title": "Mini Bypass Żołądka",
+            "features": [
+                "Prostszy niż tradycyjny bypass",
+                "Krótszy czas operacji",
+                "Technika pojedynczego zespolenia",
+                "Efektywna utrata wagi",
+                "Niższe ryzyko powikłań",
+                "Szybszy powrót do zdrowia",
+                "Odwracalny w razie potrzeby"
+            ]
+        }
+    },
+    "publications": {
+        "title": "Zaawansowane Techniki",
+        "titleLine2": "Chirurgii Bariatrycznej",
+        "description": "Nowoczesne techniki sprawiają, że operacje odchudzające są bezpieczniejsze i skuteczniejsze, pomagając pacjentom osiągnąć cele zdrowotne.",
+        "descriptionLine2": "",
+        "ctaButton": "Bezpłatna Konsultacja"
+    },
+    "rhinoplastyBeforeAfterYT": {
+        "title": "Rękawowa Resekcja Żołądka: Wyniki Przed i Po",
+        "subtitle": "Poznaj zmieniające życie transformacje osiągnięte dzięki wiedzy Doc. Dr. Feridun Gökçe."
+    },
+    "stats": {
+        "operations": {
+            "value": "+10000",
+            "label": "Tysiące pomyślnie wykonanych operacji rękawowej resekcji żołądka"
+        },
+        "years": {
+            "value": "30+",
+            "label": "Lat doświadczenia w chirurgii bariatrycznej"
+        },
+        "recommend": {
+            "value": "95%",
+            "label": "pacjentów poleca Doc. Dr. Feridun Gökçe"
+        },
+        "satisfaction": {
+            "value": "98%",
+            "label": "Wskaźnik satysfakcji pacjentów po zabiegach bariatrycznych"
+        }
+    },
+    "testimonials": {
+        "title": "Historie Pacjentów o Transformacji i Zaufaniu",
+        "titleLine1": "Historie pacjentów o",
+        "titleLine2": "transformacji i",
+        "titleLine3": "zaufaniu",
+        "subtitle": "Uwielbiamy naszych pacjentów, ale nie wierz nam tylko na słowo. Zobacz, co o nas mówią!",
+        "ctaButton": "Zacznij wprowadzać zmiany!",
+        "patientLabel": "Pacjent",
+        "reviews": [
+            {
+                "text": "Przeszłam operację u Doc. Dr. Feridun Gökçe i jestem bardziej niż zadowolona z wyniku. Dzięki jego wiedzy i uspokajającemu podejściu czułam się bezpiecznie na każdym kroku.",
+                "name": "Sarah Johnson",
+                "patient": "Pacjentka: Sarah Johnson",
+                "country": "DE"
+            },
+            {
+                "text": "Operacja przebiegła idealnie i już widzę niesamowite rezultaty. Całe doświadczenie – od zabiegu po rekonwalescencję – było płynne i profesjonalne.",
+                "name": "Michael Brown",
+                "patient": "Pacjent: Michael Brown",
+                "country": "DE"
+            },
+            {
+                "text": "Już straciłam znaczną wagę i czuję się niesamowicie. Z całego serca polecam Doc. Dr. Feridun Gökçe każdemu, kto rozważa operację odchudzającą!",
+                "name": "Emma Wilson",
+                "patient": "Pacjentka: Emma Wilson",
+                "country": "DE"
+            }
+        ]
+    },
+    "whyDoctor": {
+        "title": "Dlaczego warto wybrać Doc. Dr. Feridun Gökçe?",
+        "titleLine1": "Dlaczego warto wybrać",
+        "titleLine2": "Doc. Dr. Feridun Gökçe na",
+        "titleLine3": "zabieg resekcji żołądka?",
+        "ctaButton": "Bezpłatna Konsultacja",
+        "features": {
+            "leadership": {
+                "label": "Przywództwo:",
+                "text": "Kierowane przez Doc. Dr. Feridun Gökçe, eksperta chirurgii bariatrycznej."
+            },
+            "expertise": {
+                "label": "Ekspercka wiedza:",
+                "text": "Spersonalizowane podejście bariatryczne, drobiazgowo zaprojektowane dla unikalnych potrzeb każdego pacjenta."
+            },
+            "scientific": {
+                "label": "Doskonałość naukowa:",
+                "text": "Zaawansowane techniki chirurgiczne i kompleksowe programy opieki przed- i pooperacyjnej."
+            },
+            "technology": {
+                "label": "Technologia:",
+                "text": "Najnowocześniejsze metody chirurgiczne z wykorzystaniem najnowszej technologii laparoskopowej."
+            },
+            "guarantee": {
+                "label": "Gwarancja:",
+                "text": "Uznany za sukces i bezpieczeństwo, zapewniający pacjentom pewność i kompleksowe wsparcie pooperacyjne."
+            }
+        }
+    },
+    "whyTurkey": {
+        "title": "Dlaczego warto wybrać Turcję na operację żołądka?",
+        "reasons": {
+            "affordable": {
+                "title": "Przystępne ceny:",
+                "description": "Turcja oferuje operacje bariatryczne w bardziej konkurencyjnych cenach niż wiele krajów europejskich, zachowując wysokie standardy opieki medycznej."
+            },
+            "geographic": {
+                "title": "Przewaga geograficzna:",
+                "description": "Dzięki Stambułowi jako globalnemu węzłowi, pacjenci mogą połączyć operację z doświadczeniami kulturowymi."
+            },
+            "techniques": {
+                "title": "Zaawansowane techniki:",
+                "description": "Tureccy chirurdzy są wykwalifikowani w nowoczesnych technikach chirurgii bariatrycznej, osiągając bezpieczne wyniki."
+            },
+            "technology": {
+                "title": "Nowoczesna technologia:",
+                "description": "Szpitale używają nowoczesnych narzędzi chirurgicznych i innowacyjnych metod rekonwalescencji."
+            }
+        }
+    },
+    "journey": {
+        "titleLine1": "Jak będzie przebiegać Twoja",
+        "titleLine2": "podróż bariatryczna?",
+        "steps": [
+            "Konsultacja online",
+            "Przyjazd do Stambułu",
+            "Badania przedoperacyjne",
+            "Konsultacja u Doc. Dr. Feridun Gökçe",
+            "Planowanie dnia operacji",
+            "Operacja rękawowej resekcji żołądka",
+            "Opieka pooperacyjna",
+            "Plan diety i żywienia",
+            "Regularne wizyty kontrolne",
+            "Wyjazd",
+            "Nowy, zdrowy styl życia"
+        ]
+    },
+    "techniques": {
+        "title": "Techniki Chirurgii Bariatrycznej",
+        "items": [
+            "Rękawowa Resekcja Żołądka",
+            "Bypass Żołądka",
+            "Mini Bypass Żołądka",
+            "Chirurgia Rewizyjna"
+        ]
+    }
+}

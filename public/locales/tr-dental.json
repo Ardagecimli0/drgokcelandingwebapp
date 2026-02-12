@@ -1,0 +1,274 @@
+{
+    "meta": {
+        "title": "Türkiye'de Tüp Mide Ameliyatı | Doç. Dr. Feridun Gökçe",
+        "description": "İstanbul'da 2490€'dan başlayan fiyatlarla uygun maliyetli tüp mide ameliyatı. 30 yılı aşkın deneyime sahip Doç. Dr. Feridun Gökçe liderliğinde. Ücretsiz konsültasyon ve yüksek başarı oranları.",
+        "keywords": "tüp mide türkiye, mide küçültme istanbul, obezite cerrahisi türkiye, mide baypası türkiye, Doç Dr Feridun Gökçe, uygun fiyatlı tüp mide"
+    },
+    "header": {
+        "ctaMobile": "Ücretsiz Konsültasyon",
+        "ctaDesktop": "Kişiye özel tüp mide konsültasyonu alın"
+    },
+    "hero": {
+        "title": "Türkiye'de Tüp Mide Ameliyatı",
+        "subtitle": "2490€'dan Başlayan Fiyatlarla",
+        "subtitleLine2": "Binlerce başarılı tüp mide prosedürü tamamlandı",
+        "formTitle": "Ücretsiz Konsültasyon",
+        "formNamePlaceholder": "Adınız",
+        "formEmailPlaceholder": "E-posta Adresiniz",
+        "formSubmit": "Gönder"
+    },
+    "beforeAfter": {
+        "title": "Bu Muhteşem 'Öncesi & Sonrası'",
+        "titleLine2": "Değişimlerine",
+        "titleLine3": "Göz Atın!",
+        "description": "Doç. Dr. Feridun Gökçe'nin uzmanlığıyla elde edilen doğal değişimleri keşfedin.",
+        "ctaButton": "Ücretsiz Konsültasyon"
+    },
+    "contactForm": {
+        "title": "Ücretsiz Konsültasyonunuzu Alın",
+        "subtitle": "Formu doldurun, size en kısa sürede dönüş yapalım",
+        "namePlaceholder": "Adınız",
+        "phonePlaceholder": "Telefon Numaranız",
+        "emailPlaceholder": "E-posta Adresiniz",
+        "submit": "Gönder"
+    },
+    "doctorInfo": {
+        "roles": {
+            "surgeon": {
+                "title": "Bariatrik Cerrah",
+                "description": "Zayıflama Cerrahisi Uzmanı"
+            },
+            "healthAdvocate": {
+                "title": "Sağlık Danışmanı",
+                "description": "Sağlıklı yaşam tarzı değişikliklerini destekler"
+            },
+            "author": {
+                "title": "Yayınlanmış Uzman",
+                "description": "Tıp dergileri ve sağlık yayınlarına katkıda bulunan yazar"
+            }
+        },
+        "ctaTitle": "Tüp mide yolculuğunuzu planlayın:",
+        "ctaClinicName": "Doç. Dr. Feridun Gökçe",
+        "freeConsultation": "Ücretsiz Konsültasyon",
+        "or": "veya",
+        "whatsapp": "WhatsApp"
+    },
+    "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "questions": [
+            {
+                "question": "Tüp mide ameliyatı nedir?",
+                "answer": "Sleeve gastrektomi olarak da bilinen tüp mide ameliyatı, midenin yaklaşık %80'inin çıkarılarak muz şeklinde bir tüp bırakıldığı bariatrik bir prosedürdür. Bu işlem mide kapasitesini azaltır ve açlık hormonlarını düşürerek önemli ölçüde kilo kaybı sağlar."
+            },
+            {
+                "question": "Tüp mide için iyi bir aday mıyım?",
+                "answer": "İdeal adaylar 35 veya üzeri VKİ'ye sahip olan, diğer zayıflama yöntemlerini deneyip sonuç alamayan ve yaşam tarzı değişikliklerine kararlı kişilerdir. Detaylı bir konsültasyon sonucunda uygunluğunuz belirlenir."
+            },
+            {
+                "question": "Tüp mide ameliyatı ne kadar sürer?",
+                "answer": "Ameliyat genellikle 1 ile 2 saat arasında sürer ve laparoskopik olarak (kapalı yöntem) küçük kesilerle gerçekleştirilir; bu da minimum yara izi ve daha hızlı iyileşme sağlar."
+            },
+            {
+                "question": "İyileşme süreci ne kadardır?",
+                "answer": "Çoğu hasta 2-3 gün hastanede kalır ve 2-3 hafta içinde işine dönebilir. Tam iyileşme ve yeni yeme alışkanlıklarına adaptasyon genellikle 4-6 hafta sürer."
+            },
+            {
+                "question": "Ne kadar kilo vermeyi bekleyebilirim?",
+                "answer": "Çoğu hasta, ameliyattan sonraki ilk yıl içinde fazla kilolarının %60-70'ini kaybeder. Sonuçlar diyet, egzersiz ve yaşam tarzı değişikliklerine olan bağlılığa göre değişebilir."
+            },
+            {
+                "question": "Ameliyattan sonra özel bir diyet uygulamam gerekecek mi?",
+                "answer": "Evet; önce sıvı, sonra püre, yumuşak gıdalar ve sonunda katı gıdalar şeklinde ilerleyen aşamalı bir diyet izleyeceksiniz. Beslenme uzmanımız size kapsamlı bir plan ve destek sunacaktır."
+            }
+        ]
+    },
+    "footer": {
+        "description": "Tüp mide ve zayıflama cerrahisinde uzman, deneyimli bariatrik cerrah.",
+        "copyright": "Copyright © 2025 Doç. Dr. Feridun Gökçe - Tüm Hakları Saklıdır",
+        "address": "İstanbul Rami Hastanesi, İstanbul, Türkiye",
+        "email": "info@drferidungokce.com",
+        "phone": "+90 546 763 37 21"
+    },
+    "hospitalHotel": {
+        "clinicBadge": "HASTANE",
+        "hotelBadge": "OTEL",
+        "clinicSubtitle": "Misafirlerimiz burada ağırlanmaktadır:",
+        "clinicName": "İstanbul Rami Hastanesi",
+        "hotelSubtitle": "Misafirlerimizin konakladığı yer:",
+        "hotelName": "Istanbul The Kailyn Hotels"
+    },
+    "packages": {
+        "title": "PAKETLERİMİZ",
+        "getMoreInfo": "Daha fazla bilgi al",
+        "gastricSleeve": {
+            "title": "Tüp Mide Ameliyatı",
+            "features": [
+                "Mide boyutunu %80 oranında küçültür",
+                "Etkili ve uzun vadeli kilo kaybı",
+                "Obezite kaynaklı sağlık sorunlarını iyileştirir",
+                "Minimal invaziv laparoskopik prosedür",
+                "Hızlı iyileşme süresi",
+                "Vücuda yabancı cisim yerleştirilmez",
+                "Açlık hormonu üretimini azaltır"
+            ]
+        },
+        "gastricBypass": {
+            "title": "Gastrik Bypass",
+            "features": [
+                "Küçük bir mide poşu oluşturur",
+                "İnce bağırsağın bir kısmını devre dışı bırakır",
+                "Mükemmel kilo verme sonuçları",
+                "Tip 2 diyabeti iyileştirir",
+                "Uzun vadeli sağlık faydaları",
+                "Kanıtlanmış etkinlik",
+                "Kapsamlı satış sonrası destek"
+            ]
+        },
+        "miniGastricBypass": {
+            "title": "Mini Gastrik Bypass",
+            "features": [
+                "Geleneksel bypass'tan daha basittir",
+                "Daha kısa operasyon süresi",
+                "Tek anastomoz tekniği",
+                "Etkili kilo kaybı",
+                "Daha düşük komplikasyon oranları",
+                "Daha hızlı iyileşme",
+                "Gerektiğinde geri döndürülebilir"
+            ]
+        }
+    },
+    "publications": {
+        "title": "Gelişmiş Bariatrik",
+        "titleLine2": "Cerrahi Teknikleri",
+        "description": "Modern teknikler zayıflama cerrahisini daha güvenli, etkili ve tatmin edici hale getirerek hastaların sağlık hedeflerine ulaşmalarına yardımcı olur.",
+        "descriptionLine2": "",
+        "ctaButton": "Ücretsiz Konsültasyon"
+    },
+    "rhinoplastyBeforeAfterYT": {
+        "title": "Tüp Mide: Öncesi & Sonrası Sonuçları",
+        "subtitle": "Doç. Dr. Feridun Gökçe'nin uzmanlığıyla gerçekleşen hayat değiştiren değişimleri keşfedin."
+    },
+    "stats": {
+        "operations": {
+            "value": "+10000",
+            "label": "Binlerce başarılı tüp mide ameliyatı tamamlandı"
+        },
+        "years": {
+            "value": "30+",
+            "label": "Bariatrik cerrahide yılların deneyimi"
+        },
+        "recommend": {
+            "value": "%95",
+            "label": "Hastaların tavsiye etme oranı"
+        },
+        "satisfaction": {
+            "value": "%98",
+            "label": "Tüp mide sonrası hasta memnuniyet oranı"
+        }
+    },
+    "testimonials": {
+        "title": "Hasta Hikayeleri: Değişim ve Güven",
+        "titleLine1": "Değişim ve Güven",
+        "titleLine2": "Dolu",
+        "titleLine3": "Hasta Hikayeleri",
+        "subtitle": "Hastalarımızı seviyoruz ama sadece bizim sözümüze güvenmeyin. Hakkımızda neler söylediklerine bir bakın!",
+        "ctaButton": "Değişime Şimdi Başlayın!",
+        "patientLabel": "Hasta",
+        "reviews": [
+            {
+                "text": "Tüp mide ameliyatımı Doç. Dr. Feridun Gökçe'ye oldum ve sonuçtan çok memnunum. Bilgisi ve ameliyat öncesi-sonrası güven veren yaklaşımı sayesinde her adımda kendimi güvende hissettim.",
+                "name": "Sarah Johnson",
+                "patient": "Hasta: Sarah Johnson",
+                "country": "DE"
+            },
+            {
+                "text": "Ameliyat mükemmel geçti ve şimdiden inanılmaz sonuçlar alıyorum. İşlemden iyileşme sürecine kadar her şey sorunsuzdu. Her adımda değerli tavsiyeler ve üst düzey bakım aldım.",
+                "name": "Michael Brown",
+                "patient": "Hasta: Michael Brown",
+                "country": "DE"
+            },
+            {
+                "text": "Şimdiden önemli ölçüde kilo verdim ve kendimi harika hissediyorum. Zayıflama cerrahisi düşünen herkese Doç. Dr. Feridun Gökçe ve ekibini gönül rahatlığıyla tavsiye ederim!",
+                "name": "Emma Wilson",
+                "patient": "Hasta: Emma Wilson",
+                "country": "DE"
+            }
+        ]
+    },
+    "whyDoctor": {
+        "title": "Neden Doç. Dr. Feridun Gökçe?",
+        "titleLine1": "Tüp mide için neden",
+        "titleLine2": "Doç. Dr. Feridun Gökçe'yi",
+        "titleLine3": "seçmelisiniz?",
+        "ctaButton": "Ücretsiz Konsültasyon",
+        "features": {
+            "leadership": {
+                "label": "Liderlik:",
+                "text": "Uzman Bariatrik Cerrah Doç. Dr. Feridun Gökçe liderliğinde."
+            },
+            "expertise": {
+                "label": "Uzmanlık:",
+                "text": "Her hastanın benzersiz ihtiyaçlarına ve hedeflerine göre titizlikle tasarlanmış kişiye özel yaklaşımlar."
+            },
+            "scientific": {
+                "label": "Bilimsel Mükemmellik:",
+                "text": "Gelişmiş cerrahi teknikler ve kapsamlı ameliyat öncesi/sonrası bakım programları."
+            },
+            "technology": {
+                "label": "Teknoloji:",
+                "text": "En son laparoskopik teknolojiyi kullanan modern cerrahi yöntemler."
+            },
+            "guarantee": {
+                "label": "Garanti:",
+                "text": "Başarı ve güvenliğiyle tanınan, hastalara güven ve kapsamlı destek sağlayan bir süreç."
+            }
+        }
+    },
+    "whyTurkey": {
+        "title": "Tüp Mide İçin Neden Türkiye?",
+        "reasons": {
+            "affordable": {
+                "title": "Uygun Fiyatlar:",
+                "description": "Türkiye, yüksek tıbbi bakım standartlarını korurken Avrupa ülkelerine göre çok daha rekabetçi fiyatlar sunar."
+            },
+            "geographic": {
+                "title": "Coğrafi Avantaj:",
+                "description": "İstanbul'un küresel bir merkez olması sayesinde hastalar ameliyatı kültürel bir deneyimle birleştirebilir."
+            },
+            "techniques": {
+                "title": "Gelişmiş Teknikler:",
+                "description": "Türk cerrahlar, modern bariatrik cerrahi tekniklerinde oldukça deneyimlidir."
+            },
+            "technology": {
+                "title": "Son Teknoloji:",
+                "description": "Hastaneler, güvenli operasyonlar ve hızlı iyileşme sağlayan modern cerrahi araçlar kullanır."
+            }
+        }
+    },
+    "journey": {
+        "titleLine1": "Tüp Mide Yolculuğunuz",
+        "titleLine2": "Nasıl Geçecek?",
+        "steps": [
+            "Online Konsültasyon",
+            "İstanbul'a Varış",
+            "Ameliyat Öncesi Testler",
+            "Doç. Dr. Feridun Gökçe ile Muayene",
+            "Operasyon Günü Planlaması",
+            "Tüp Mide Ameliyatı",
+            "Ameliyat Sonrası Bakım",
+            "Diyet ve Beslenme Planı",
+            "Düzenli Kontroller",
+            "Dönüş",
+            "Sağlıklı Yeni Bir Yaşam"
+        ]
+    },
+    "techniques": {
+        "title": "Bariatrik Cerrahi Teknikleri",
+        "items": [
+            "Tüp Mide",
+            "Gastrik Bypass",
+            "Mini Gastrik Bypass",
+            "Revizyon Cerrahisi"
+        ]
+    }
+}

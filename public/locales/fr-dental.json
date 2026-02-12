@@ -1,0 +1,274 @@
+{
+    "meta": {
+        "title": "Sleeve Gastrectomie en Turquie | Doc. Dr. Feridun Gökçe",
+        "description": "Chirurgie de la manche gastrique abordable à Istanbul à partir de 2490€. Dirigée par le Doc. Dr. Feridun Gökçe, plus de 30 ans d'expérience. Consultation gratuite et taux de réussite élevés.",
+        "keywords": "sleeve gastrique turquie, chirurgie perte de poids istanbul, chirurgie bariatrique turquie, bypass gastrique turquie, Doc Dr Feridun Gökçe, sleeve gastrique prix"
+    },
+    "header": {
+        "ctaMobile": "Consultation Gratuite",
+        "ctaDesktop": "Obtenez une consultation personnalisée pour une sleeve gastrique"
+    },
+    "hero": {
+        "title": "Sleeve Gastrique en Turquie",
+        "subtitle": "À partir de 2490€",
+        "subtitleLine2": "Des milliers de procédures de sleeve gastrique réussies",
+        "formTitle": "Consultation Gratuite",
+        "formNamePlaceholder": "Votre Nom",
+        "formEmailPlaceholder": "Votre E-mail",
+        "formSubmit": "Envoyer"
+    },
+    "beforeAfter": {
+        "title": "Découvrez ces incroyables",
+        "titleLine2": "transformations",
+        "titleLine3": "'Avant & Après' !",
+        "description": "Découvrez les transformations naturelles réalisées grâce à l'expertise du Doc. Dr. Feridun Gökçe.",
+        "ctaButton": "Consultation Gratuite"
+    },
+    "contactForm": {
+        "title": "Obtenez votre Consultation Gratuite",
+        "subtitle": "Remplissez le formulaire et nous vous contacterons sous peu",
+        "namePlaceholder": "Votre Nom",
+        "phonePlaceholder": "Votre Téléphone",
+        "emailPlaceholder": "Votre E-mail",
+        "submit": "Envoyer"
+    },
+    "doctorInfo": {
+        "roles": {
+            "surgeon": {
+                "title": "Chirurgien Bariatrique",
+                "description": "Spécialiste de la chirurgie de perte de poids"
+            },
+            "healthAdvocate": {
+                "title": "Défenseur de la Santé",
+                "description": "Promouvoir des changements de mode de vie sains"
+            },
+            "author": {
+                "title": "Expert Publié",
+                "description": "Contributeur aux revues médicales et publications de santé"
+            }
+        },
+        "ctaTitle": "Planifiez votre parcours de sleeve gastrique avec",
+        "ctaClinicName": "Doc. Dr. Feridun Gökçe",
+        "freeConsultation": "Consultation Gratuite",
+        "or": "ou",
+        "whatsapp": "WhatsApp"
+    },
+    "faq": {
+        "title": "Foire Aux Questions",
+        "questions": [
+            {
+                "question": "Qu'est-ce que la chirurgie de la sleeve gastrique ?",
+                "answer": "La chirurgie de la sleeve gastrique, également connue sous le nom de gastrectomie longitudinale, est une procédure bariatrique qui retire environ 80 % de l'estomac, laissant un manchon en forme de banane. Cela réduit la capacité de l'estomac et diminue les hormones de la faim, entraînant une perte de poids significative."
+            },
+            {
+                "question": "Suis-je un bon candidat pour la sleeve gastrique ?",
+                "answer": "Les candidats idéaux ont un IMC de 35 ou plus, ont essayé d'autres méthodes de perte de poids sans succès et s'engagent à changer leur mode de vie. Une consultation détaillée et une évaluation de santé détermineront si la sleeve gastrique vous convient."
+            },
+            {
+                "question": "Combien de temps dure la chirurgie ?",
+                "answer": "La chirurgie dure généralement entre 1 et 2 heures et est réalisée par laparoscopie via de petites incisions, ce qui entraîne des cicatrices minimales et une récupération plus rapide."
+            },
+            {
+                "question": "Quelle est la durée de la période de récupération ?",
+                "answer": "La plupart des patients restent à l'hôpital pendant 2 à 3 jours et peuvent reprendre le travail sous 2 à 3 semaines. La récupération complète et l'adaptation aux nouvelles habitudes alimentaires prennent généralement 4 à 6 semaines."
+            },
+            {
+                "question": "Quelle perte de poids puis-je espérer ?",
+                "answer": "La plupart des patients perdent 60 à 70 % de leur excès de poids au cours de la première année suivant la chirurgie. Les résultats varient selon l'engagement individuel envers le régime, l'exercice et le mode de vie."
+            },
+            {
+                "question": "Devrai-je suivre un régime spécial après la chirurgie ?",
+                "answer": "Oui, vous suivrez un régime progressif commençant par des liquides, puis des purées, des aliments mous et enfin des aliments solides. Notre nutritionniste vous fournira un plan complet et un soutien continu."
+            }
+        ]
+    },
+    "footer": {
+        "description": "Chirurgien bariatrique expert, spécialisé dans la sleeve gastrique et la chirurgie de perte de poids.",
+        "copyright": "Copyright © 2025 Doc. Dr. Feridun Gökçe - Tous droits réservés",
+        "address": "Istanbul Rami Hospital, Istanbul, Turquie",
+        "email": "info@drferidungokce.com",
+        "phone": "+90 546 763 3721"
+    },
+    "hospitalHotel": {
+        "clinicBadge": "HÔPITAL",
+        "hotelBadge": "HÔTEL",
+        "clinicSubtitle": "Nos invités sont accueillis à",
+        "clinicName": "Istanbul Rami Hospital",
+        "hotelSubtitle": "Nos invités séjournent à",
+        "hotelName": "Istanbul The Kailyn Hotels"
+    },
+    "packages": {
+        "title": "NOS FORFAITS",
+        "getMoreInfo": "Obtenir plus d'informations",
+        "gastricSleeve": {
+            "title": "Chirurgie de la Sleeve Gastrique",
+            "features": [
+                "Réduit la taille de l'estomac de 80 %",
+                "Perte de poids efficace à long terme",
+                "Améliore les problèmes de santé liés à l'obésité",
+                "Procédure laparoscopique peu invasive",
+                "Temps de récupération rapide",
+                "Aucun objet étranger implanté",
+                "Réduit la production d'hormones de la faim"
+            ]
+        },
+        "gastricBypass": {
+            "title": "Bypass Gastrique",
+            "features": [
+                "Crée une petite poche stomacale",
+                "Court-circuite une partie de l'intestin grêle",
+                "Excellents résultats de perte de poids",
+                "Améliore le diabète de type 2",
+                "Avantages pour la santé à long terme",
+                "Efficacité prouvée",
+                "Soutien post-opératoire complet"
+            ]
+        },
+        "miniGastricBypass": {
+            "title": "Mini Bypass Gastrique",
+            "features": [
+                "Plus simple que le bypass traditionnel",
+                "Temps d'opération plus court",
+                "Technique d'anastomose unique",
+                "Perte de poids efficace",
+                "Taux de complications plus faibles",
+                "Récupération plus rapide",
+                "Réversible si nécessaire"
+            ]
+        }
+    },
+    "publications": {
+        "title": "Techniques Avancées",
+        "titleLine2": "de Chirurgie Bariatrique",
+        "description": "Les techniques modernes rendent la chirurgie de perte de poids plus sûre et plus efficace, aidant les patients à atteindre leurs objectifs.",
+        "descriptionLine2": "",
+        "ctaButton": "Consultation Gratuite"
+    },
+    "rhinoplastyBeforeAfterYT": {
+        "title": "Sleeve Gastrique : Résultats Avant & Après",
+        "subtitle": "Découvrez les transformations qui changent la vie grâce à l'expertise du Doc. Dr. Feridun Gökçe."
+    },
+    "stats": {
+        "operations": {
+            "value": "+10000",
+            "label": "Des milliers de procédures de sleeve gastrique réussies"
+        },
+        "years": {
+            "value": "30+",
+            "label": "Années d'expérience en chirurgie bariatrique"
+        },
+        "recommend": {
+            "value": "95%",
+            "label": "des patients recommandent le Doc. Dr. Feridun Gökçe"
+        },
+        "satisfaction": {
+            "value": "98%",
+            "label": "Taux de satisfaction après une sleeve gastrique"
+        }
+    },
+    "testimonials": {
+        "title": "Histoires de Patients : Transformation et Confiance",
+        "titleLine1": "Histoires de patients",
+        "titleLine2": "Transformation et",
+        "titleLine3": "Confiance",
+        "subtitle": "Nous aimons nos patients, mais ne nous croyez pas sur parole. Voici ce qu'ils disent !",
+        "ctaButton": "Commencez à changer !",
+        "patientLabel": "Patient",
+        "reviews": [
+            {
+                "text": "J'ai eu ma sleeve avec le Doc. Dr. Feridun Gökçe et je suis plus que satisfaite. Grâce à son savoir et son approche rassurante, je me suis sentie en sécurité à chaque étape.",
+                "name": "Sarah Johnson",
+                "patient": "Patiente : Sarah Johnson",
+                "country": "DE"
+            },
+            {
+                "text": "La chirurgie s'est parfaitement déroulée et je vois déjà des résultats incroyables. L'expérience entière était fluide, avec des conseils précieux à chaque étape.",
+                "name": "Michael Brown",
+                "patient": "Patient : Michael Brown",
+                "country": "DE"
+            },
+            {
+                "text": "J'ai déjà perdu beaucoup de poids et je me sens merveilleusement bien. Je recommande vivement le Doc. Dr. Feridun Gökçe à toute personne envisageant cette chirurgie !",
+                "name": "Emma Wilson",
+                "patient": "Patiente : Emma Wilson",
+                "country": "DE"
+            }
+        ]
+    },
+    "whyDoctor": {
+        "title": "Pourquoi Choisir le Doc. Dr. Feridun Gökçe ?",
+        "titleLine1": "Pourquoi choisir le Doc.",
+        "titleLine2": "Dr. Feridun Gökçe pour",
+        "titleLine3": "votre sleeve gastrique ?",
+        "ctaButton": "Consultation Gratuite",
+        "features": {
+            "leadership": {
+                "label": "Leadership :",
+                "text": "Dirigé par le Doc. Dr. Feridun Gökçe, chirurgien bariatrique expert."
+            },
+            "expertise": {
+                "label": "Expertise :",
+                "text": "Approches personnalisées conçues méticuleusement pour les besoins uniques de chaque patient."
+            },
+            "scientific": {
+                "label": "Excellence Scientifique :",
+                "text": "Techniques avancées et programmes complets de soins pré et post-opératoires."
+            },
+            "technology": {
+                "label": "Technologie :",
+                "text": "Méthodes de pointe utilisant la dernière technologie laparoscopique."
+            },
+            "guarantee": {
+                "label": "Garantie :",
+                "text": "Reconnu pour son succès et sa sécurité, offrant confiance et soutien continu."
+            }
+        }
+    },
+    "whyTurkey": {
+        "title": "Pourquoi Choisir la Turquie pour Votre Sleeve ?",
+        "reasons": {
+            "affordable": {
+                "title": "Prix Abordables :",
+                "description": "La Turquie propose la sleeve à des prix plus compétitifs que l'Europe, tout en maintenant des standards médicaux élevés."
+            },
+            "geographic": {
+                "title": "Avantage Géographique :",
+                "description": "Avec Istanbul comme plaque tournante, combinez chirurgie et expériences culturelles."
+            },
+            "techniques": {
+                "title": "Techniques Avancées :",
+                "description": "Les chirurgiens turcs maîtrisent les techniques modernes pour des résultats sûrs."
+            },
+            "technology": {
+                "title": "Technologie de Pointe :",
+                "description": "Les hôpitaux utilisent des outils modernes pour garantir des opérations sûres et une guérison rapide."
+            }
+        }
+    },
+    "journey": {
+        "titleLine1": "Comment se Déroule Votre",
+        "titleLine2": "Parcours de Sleeve Gastrique ?",
+        "steps": [
+            "Consultation en Ligne",
+            "Arrivée à Istanbul",
+            "Tests Préopératoires",
+            "Examen avec le Doc. Dr. Feridun Gökçe",
+            "Planning de l'Opération",
+            "Chirurgie de la Sleeve",
+            "Soins Post-opératoires",
+            "Plan Diététique",
+            "Suivis Réguliers",
+            "Départ",
+            "Nouveau Mode de Vie Sain"
+        ]
+    },
+    "techniques": {
+        "title": "Techniques de Chirurgie Bariatrique",
+        "items": [
+            "Sleeve Gastrique",
+            "Bypass Gastrique",
+            "Mini Bypass Gastrique",
+            "Chirurgie de Révision"
+        ]
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "meta": {
+        "title": "Manga Gástrica en Turquía | Doc. Dr. Feridun Gökçe",
+        "description": "Cirugía de manga gástrica asequible en Estambul desde 2490€. Dirigido por el Doc. Dr. Feridun Gökçe con más de 30 años de experiencia. Consulta gratuita y altas tasas de éxito.",
+        "keywords": "manga gástrica turquía, cirugía de pérdida de peso estambul, cirugía bariátrica turquía, bypass gástrico turquía, Doc Dr Feridun Gökçe, manga gástrica económica"
+    },
+    "header": {
+        "ctaMobile": "Consulta Gratuita",
+        "ctaDesktop": "Obtenga una consulta personalizada de manga gástrica"
+    },
+    "hero": {
+        "title": "Manga Gástrica en Turquía",
+        "subtitle": "Desde 2490€",
+        "subtitleLine2": "Miles de procedimientos de manga gástrica completados con éxito",
+        "formTitle": "Consulta Gratuita",
+        "formNamePlaceholder": "Su Nombre",
+        "formEmailPlaceholder": "Su Correo Electrónico",
+        "formSubmit": "Enviar"
+    },
+    "beforeAfter": {
+        "title": "¡Mira estas increíbles",
+        "titleLine2": "transformaciones de",
+        "titleLine3": "'Antes y Después'!",
+        "description": "Explore las transformaciones naturales logradas a través de la experiencia del Doc. Dr. Feridun Gökçe.",
+        "ctaButton": "Consulta Gratuita"
+    },
+    "contactForm": {
+        "title": "Obtenga su Consulta Gratuita",
+        "subtitle": "Complete el formulario y nos pondremos en contacto con usted en breve",
+        "namePlaceholder": "Su Nombre",
+        "phonePlaceholder": "Su Teléfono",
+        "emailPlaceholder": "Su Correo Electrónico",
+        "submit": "Enviar"
+    },
+    "doctorInfo": {
+        "roles": {
+            "surgeon": {
+                "title": "Cirujano Bariátrico",
+                "description": "Especialista en Cirugía de Pérdida de Peso"
+            },
+            "healthAdvocate": {
+                "title": "Defensor de la Salud",
+                "description": "Promoviendo cambios hacia un estilo de vida saludable"
+            },
+            "author": {
+                "title": "Experto Publicado",
+                "description": "Colaborador en revistas médicas y publicaciones de salud"
+            }
+        },
+        "ctaTitle": "Planifique su viaje de manga gástrica con",
+        "ctaClinicName": "Doc. Dr. Feridun Gökçe",
+        "freeConsultation": "Consulta Gratuita",
+        "or": "o",
+        "whatsapp": "WhatsApp"
+    },
+    "faq": {
+        "title": "Preguntas Frecuentes",
+        "questions": [
+            {
+                "question": "¿Qué es la cirugía de manga gástrica?",
+                "answer": "La cirugía de manga gástrica, también conocida como gastrectomía en manga, es un procedimiento bariátrico que elimina aproximadamente el 80% del estómago, dejando una sección en forma de tubo o manga. Esto reduce la capacidad del estómago y disminuye las hormonas del hambre, lo que conduce a una pérdida de peso significativa."
+            },
+            {
+                "question": "¿Soy un buen candidato para la manga gástrica?",
+                "answer": "Los candidatos ideales tienen un IMC de 35 o superior, han intentado otros métodos de pérdida de peso sin éxito y están comprometidos a realizar cambios en su estilo de vida. Una consulta detallada y una evaluación de salud determinarán si la manga gástrica es adecuada para usted."
+            },
+            {
+                "question": "¿Cuánto tiempo dura la cirugía de manga gástrica?",
+                "answer": "La cirugía de manga gástrica generalmente toma entre 1 y 2 horas y se realiza por vía laparoscópica a través de pequeñas incisiones, lo que resulta en una cicatrización mínima y una recuperación más rápida."
+            },
+            {
+                "question": "¿Cuánto dura el período de recuperación?",
+                "answer": "La mayoría de los pacientes permanecen en el hospital de 2 a 3 días y pueden regresar al trabajo en 2 o 3 semanas. La recuperación completa y la adaptación a los nuevos hábitos alimenticios suelen tardar de 4 a 6 semanas."
+            },
+            {
+                "question": "¿Cuánto peso puedo esperar perder?",
+                "answer": "La mayoría de los pacientes pierden entre el 60% y el 70% de su exceso de peso dentro del primer año después de la cirugía. Los resultados varían según el compromiso individual con la dieta, el ejercicio y los cambios en el estilo de vida."
+            },
+            {
+                "question": "¿Necesitaré seguir una dieta especial después de la cirugía?",
+                "answer": "Sí, seguirá una dieta progresiva que comienza con líquidos, luego alimentos en puré, alimentos blandos y, finalmente, alimentos sólidos. Nuestro nutricionista le proporcionará un plan de dieta integral y apoyo continuo para asegurar su éxito."
+            }
+        ]
+    },
+    "footer": {
+        "description": "Cirujano bariátrico experto, especializado en manga gástrica y cirugía de pérdida de peso.",
+        "copyright": "Copyright © 2025 Doc. Dr. Feridun Gökçe - Todos los derechos reservados",
+        "address": "Hospital Rami de Estambul, Estambul, Turquía",
+        "email": "info@drferidungokce.com",
+        "phone": "+90 546 763 3721"
+    },
+    "hospitalHotel": {
+        "clinicBadge": "HOSPITAL",
+        "hotelBadge": "HOTEL",
+        "clinicSubtitle": "Nuestros huéspedes se alojan en",
+        "clinicName": "Hospital Rami de Estambul",
+        "hotelSubtitle": "Nuestros huéspedes se hospedan en",
+        "hotelName": "Istanbul The Kailyn Hotels"
+    },
+    "packages": {
+        "title": "NUESTROS PAQUETES",
+        "getMoreInfo": "Obtener más información",
+        "gastricSleeve": {
+            "title": "Cirugía de Manga Gástrica",
+            "features": [
+                "Reduce el tamaño del estómago en un 80%",
+                "Pérdida de peso efectiva a largo plazo",
+                "Mejora las condiciones de salud relacionadas con la obesidad",
+                "Procedimiento laparoscópico mínimamente invasivo",
+                "Tiempo de recuperación rápido",
+                "Sin implantes de objetos extraños",
+                "Reduce la producción de la hormona del hambre"
+            ]
+        },
+        "gastricBypass": {
+            "title": "Bypass Gástrico",
+            "features": [
+                "Crea una pequeña bolsa estomacal",
+                "Evita parte del intestino delgado",
+                "Excelentes resultados de pérdida de peso",
+                "Mejora la diabetes tipo 2",
+                "Beneficios para la salud a largo plazo",
+                "Efectividad probada",
+                "Apoyo integral postoperatorio"
+            ]
+        },
+        "miniGastricBypass": {
+            "title": "Mini Bypass Gástrico",
+            "features": [
+                "Más simple que el bypass tradicional",
+                "Menor tiempo de operación",
+                "Técnica de anastomosis única",
+                "Pérdida de peso efectiva",
+                "Menores tasas de complicaciones",
+                "Recuperación más rápida",
+                "Reversible si es necesario"
+            ]
+        }
+    },
+    "publications": {
+        "title": "Técnicas Avanzadas de",
+        "titleLine2": "Cirugía Bariátrica",
+        "description": "Las técnicas modernas hacen que la cirugía de pérdida de peso sea más segura, efectiva y satisfactoria, ayudando a los pacientes a alcanzar sus objetivos de salud.",
+        "descriptionLine2": "",
+        "ctaButton": "Consulta Gratuita"
+    },
+    "rhinoplastyBeforeAfterYT": {
+        "title": "Manga Gástrica: Resultados Antes y Después",
+        "subtitle": "Explore las transformaciones que cambian la vida logradas a través de la experiencia del Doc. Dr. Feridun Gökçe."
+    },
+    "stats": {
+        "operations": {
+            "value": "+10000",
+            "label": "Miles de procedimientos de manga gástrica realizados con éxito"
+        },
+        "years": {
+            "value": "30+",
+            "label": "Años de experiencia en cirugía bariátrica"
+        },
+        "recommend": {
+            "value": "95%",
+            "label": "de los pacientes recomiendan al Doc. Dr. Feridun Gökçe"
+        },
+        "satisfaction": {
+            "value": "98%",
+            "label": "Tasa de satisfacción del paciente tras procedimientos de manga gástrica"
+        }
+    },
+    "testimonials": {
+        "title": "Historias de Pacientes: Transformación y Confianza",
+        "titleLine1": "Historias de pacientes de",
+        "titleLine2": "transformación y",
+        "titleLine3": "confianza",
+        "subtitle": "Amamos a nuestros pacientes, ¡pero no se quede solo con nuestra palabra. Mire lo que dicen sobre nosotros!",
+        "ctaButton": "¡Empiece a hacer cambios!",
+        "patientLabel": "Paciente",
+        "reviews": [
+            {
+                "text": "Me realicé la cirugía de manga gástrica con el Doc. Dr. Feridun Gökçe y estoy más que satisfecha con el resultado. Gracias a su conocimiento, atención cuidadosa y enfoque tranquilizador antes y después de la cirugía, me sentí segura y confiada en cada paso.",
+                "name": "Sarah Johnson",
+                "patient": "Paciente: Sarah Johnson",
+                "country": "DE"
+            },
+            {
+                "text": "La cirugía salió perfectamente y ya estoy viendo resultados increíbles. Toda la experiencia, desde el procedimiento hasta la recuperación, fue fluida, y cada paso contó con valiosos consejos y una atención de primer nivel.",
+                "name": "Michael Brown",
+                "patient": "Paciente: Michael Brown",
+                "country": "DE"
+            },
+            {
+                "text": "Ya he perdido una cantidad significativa de peso y me siento increíble. En general, recomiendo de todo corazón al Doc. Dr. Feridun Gökçe y a su equipo a cualquiera que esté considerando una cirugía de pérdida de peso.",
+                "name": "Emma Wilson",
+                "patient": "Paciente: Emma Wilson",
+                "country": "DE"
+            }
+        ]
+    },
+    "whyDoctor": {
+        "title": "¿Por qué elegir al Doc. Dr. Feridun Gökçe?",
+        "titleLine1": "¿Por qué elegir al Doc. Dr.",
+        "titleLine2": "Feridun Gökçe para su",
+        "titleLine3": "manga gástrica?",
+        "ctaButton": "Consulta Gratuita",
+        "features": {
+            "leadership": {
+                "label": "Liderazgo:",
+                "text": "Dirigido por el Doc. Dr. Feridun Gökçe, cirujano bariátrico experto."
+            },
+            "expertise": {
+                "label": "Experiencia:",
+                "text": "Enfoques de cirugía bariátrica personalizados y diseñados meticulosamente para las necesidades únicas de cada paciente."
+            },
+            "scientific": {
+                "label": "Excelencia Científica:",
+                "text": "Técnicas quirúrgicas avanzadas y programas integrales de cuidados pre y postoperatorios."
+            },
+            "technology": {
+                "label": "Tecnología:",
+                "text": "Métodos quirúrgicos de vanguardia utilizando la última tecnología laparoscópica."
+            },
+            "guarantee": {
+                "label": "Garantía:",
+                "text": "Reconocido por su éxito y seguridad, brindando a los pacientes confianza y apoyo postoperatorio integral."
+            }
+        }
+    },
+    "whyTurkey": {
+        "title": "¿Por qué elegir Turquía para su manga gástrica?",
+        "reasons": {
+            "affordable": {
+                "title": "Precios Asequibles:",
+                "description": "Turquía ofrece cirugía de manga gástrica a precios más competitivos que muchos países europeos, manteniendo altos estándares de atención médica."
+            },
+            "geographic": {
+                "title": "Ventaja Geográfica:",
+                "description": "Con Estambul como centro global, los pacientes pueden combinar la cirugía con experiencias culturales."
+            },
+            "techniques": {
+                "title": "Técnicas Avanzadas:",
+                "description": "Los cirujanos turcos son expertos en técnicas modernas de cirugía bariátrica, logrando resultados seguros y efectivos."
+            },
+            "technology": {
+                "title": "Tecnología de Punta:",
+                "description": "Los hospitales utilizan herramientas quirúrgicas modernas y métodos de recuperación innovadores, garantizando operaciones seguras."
+            }
+        }
+    },
+    "journey": {
+        "titleLine1": "¿Cómo será su viaje",
+        "titleLine2": "de manga gástrica?",
+        "steps": [
+            "Consulta en línea",
+            "Llegada a Estambul",
+            "Pruebas preoperatorias",
+            "Examen con el Doc. Dr. Feridun Gökçe",
+            "Planificación del día de la operación",
+            "Cirugía de manga gástrica",
+            "Cuidado postoperatorio",
+            "Plan de dieta y nutrición",
+            "Seguimientos regulares",
+            "Salida",
+            "Nuevo estilo de vida saludable"
+        ]
+    },
+    "techniques": {
+        "title": "Técnicas de Cirugía Bariátrica",
+        "items": [
+            "Manga Gástrica",
+            "Bypass Gástrico",
+            "Mini Bypass Gástrico",
+            "Cirugía de Revisión"
+        ]
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "meta": {
+        "title": "Schlauchmagen in der Türkei | Doz. Dr. Feridun Gökçe",
+        "description": "Erschwingliche Schlauchmagen-Operation in Istanbul ab 2490€. Geleitet von Doz. Dr. Feridun Gökçe mit über 30 Jahren Erfahrung. Kostenlose Beratung und hohe Erfolgsquoten.",
+        "keywords": "Schlauchmagen Türkei, Adipositaschirurgie Istanbul, bariatrische Chirurgie Türkei, Magenbypass Türkei, Doz. Dr. Feridun Gökçe, günstige Schlauchmagen-OP"
+    },
+    "header": {
+        "ctaMobile": "Kostenlose Beratung",
+        "ctaDesktop": "Holen Sie sich eine persönliche Beratung zum Schlauchmagen"
+    },
+    "hero": {
+        "title": "Schlauchmagen in der Türkei",
+        "subtitle": "Ab 2490€",
+        "subtitleLine2": "Tausende erfolgreiche Eingriffe durchgeführt",
+        "formTitle": "Kostenlose Beratung",
+        "formNamePlaceholder": "Ihr Name",
+        "formEmailPlaceholder": "Ihre E-Mail",
+        "formSubmit": "Absenden"
+    },
+    "beforeAfter": {
+        "title": "Schauen Sie sich diese erstaunlichen",
+        "titleLine2": "'Vorher & Nachher'",
+        "titleLine3": "Verwandlungen an!",
+        "description": "Entdecken Sie die natürlichen Verwandlungen, die durch die Expertise von Doz. Dr. Feridun Gökçe erreicht wurden.",
+        "ctaButton": "Kostenlose Beratung"
+    },
+    "contactForm": {
+        "title": "Holen Sie sich Ihre kostenlose Beratung",
+        "subtitle": "Füllen Sie das Formular aus und wir werden Sie in Kürze kontaktieren",
+        "namePlaceholder": "Ihr Name",
+        "phonePlaceholder": "Ihre Telefonnummer",
+        "emailPlaceholder": "Ihre E-Mail",
+        "submit": "Absenden"
+    },
+    "doctorInfo": {
+        "roles": {
+            "surgeon": {
+                "title": "Bariatrischer Chirurg",
+                "description": "Spezialist für Gewichtsverlust-Chirurgie"
+            },
+            "healthAdvocate": {
+                "title": "Gesundheitsberater",
+                "description": "Förderung gesunder Lebensstiländerungen"
+            },
+            "author": {
+                "title": "Veröffentlichter Experte",
+                "description": "Autor für medizinische Fachzeitschriften und Gesundheitspublikationen"
+            }
+        },
+        "ctaTitle": "Planen Sie Ihre Schlauchmagen-Reise mit",
+        "ctaClinicName": "Doz. Dr. Feridun Gökçe",
+        "freeConsultation": "Kostenlose Beratung",
+        "or": "oder",
+        "whatsapp": "WhatsApp"
+    },
+    "faq": {
+        "title": "Häufig gestellte Fragen",
+        "questions": [
+            {
+                "question": "Was ist eine Schlauchmagen-Operation?",
+                "answer": "Die Schlauchmagen-Operation, auch Schlauchmagen-Gastrektomie genannt, ist ein bariatrischer Eingriff, bei dem etwa 80 % des Magens entfernt werden, sodass ein bananenförmiger Restmagen übrig bleibt. Dies reduziert die Magenkapazität und verringert die Hungerhormone, was zu einem erheblichen Gewichtsverlust führt."
+            },
+            {
+                "question": "Bin ich ein guter Kandidat für einen Schlauchmagen?",
+                "answer": "Ideale Kandidaten haben einen BMI von 35 oder höher, haben andere Methoden zur Gewichtsabnahme erfolglos versucht und sind bereit, ihren Lebensstil zu ändern. Eine detaillierte Beratung und Gesundheitsbewertung wird feststellen, ob ein Schlauchmagen für Sie geeignet ist."
+            },
+            {
+                "question": "Wie lange dauert die Schlauchmagen-Operation?",
+                "answer": "Die Schlauchmagen-Operation dauert in der Regel zwischen 1 und 2 Stunden und wird laparoskopisch durch kleine Schnitte durchgeführt, was zu minimaler Narbenbildung und einer schnelleren Genesung führt."
+            },
+            {
+                "question": "Wie lange dauert die Genesungszeit?",
+                "answer": "Die meisten Patienten bleiben für 2-3 Tage im Krankenhaus und können innerhalb von 2-3 Wochen an ihren Arbeitsplatz zurückkehren. Die vollständige Genesung und Anpassung an neue Essgewohnheiten dauert in der Regel 4-6 Wochen."
+            },
+            {
+                "question": "Wie viel Gewicht kann ich voraussichtlich verlieren?",
+                "answer": "Die meisten Patienten verlieren innerhalb des ersten Jahres nach der Operation 60-70 % ihres Übergewichts. Die Ergebnisse variieren je nach individuellem Engagement für Ernährung, Bewegung und Lebensstiländerungen."
+            },
+            {
+                "question": "Muss ich nach der Operation eine spezielle Diät einhalten?",
+                "answer": "Ja, Sie folgen einer schrittweisen Diät, die mit Flüssigkeiten beginnt, gefolgt von pürierten Speisen, weicher Kost und schließlich fester Nahrung. Unser Ernährungsberater wird Ihnen einen umfassenden Diätplan und fortlaufende Unterstützung bieten, um Ihren Erfolg sicherzustellen."
+            }
+        ]
+    },
+    "footer": {
+        "description": "Experte für bariatrische Chirurgie, spezialisiert auf Schlauchmagen und Gewichtsverlust-Chirurgie.",
+        "copyright": "Copyright © 2025 Doz. Dr. Feridun Gökçe - Alle Rechte vorbehalten",
+        "address": "Istanbul Rami Hospital, Istanbul, Türkei",
+        "email": "info@drferidungokce.com",
+        "phone": "+90 546 763 3721"
+    },
+    "hospitalHotel": {
+        "clinicBadge": "KRANKENHAUS",
+        "hotelBadge": "HOTEL",
+        "clinicSubtitle": "Unsere Gäste werden untergebracht im",
+        "clinicName": "Istanbul Rami Hospital",
+        "hotelSubtitle": "Unsere Gäste übernachten im",
+        "hotelName": "Istanbul The Kailyn Hotels"
+    },
+    "packages": {
+        "title": "UNSERE PAKETE",
+        "getMoreInfo": "Weitere Informationen anfordern",
+        "gastricSleeve": {
+            "title": "Schlauchmagen-Operation",
+            "features": [
+                "Reduziert die Magengröße um 80%",
+                "Effektiver langfristiger Gewichtsverlust",
+                "Verbessert adipositasbedingte Gesundheitszustände",
+                "Minimalinvasives laparoskopisches Verfahren",
+                "Schnelle Genesungszeit",
+                "Keine Fremdkörper implantiert",
+                "Reduziert die Produktion von Hungerhormonen"
+            ]
+        },
+        "gastricBypass": {
+            "title": "Magenbypass",
+            "features": [
+                "Erstellt einen kleinen Magenbeutel",
+                "Umgeht einen Teil des Dünndarms",
+                "Hervorragende Ergebnisse beim Gewichtsverlust",
+                "Verbessert Typ-2-Diabetes",
+                "Langfristige gesundheitliche Vorteile",
+                "Bewährte Wirksamkeit",
+                "Umfassende Nachsorge-Unterstützung"
+            ]
+        },
+        "miniGastricBypass": {
+            "title": "Mini-Magenbypass",
+            "features": [
+                "Einfacher als der traditionelle Bypass",
+                "Kürzere Operationszeit",
+                "Ein-Anastomosen-Technik",
+                "Effektiver Gewichtsverlust",
+                "Geringere Komplikationsraten",
+                "Schnellere Genesung",
+                "Bei Bedarf reversibel"
+            ]
+        }
+    },
+    "publications": {
+        "title": "Fortschrittliche bariatrische",
+        "titleLine2": "Chirurgietechniken",
+        "description": "Moderne Techniken machen die Gewichtsverlust-Chirurgie sicherer, effektiver und zufriedenstellender und helfen den Patienten, ihre Gesundheitsziele zu erreichen.",
+        "descriptionLine2": "",
+        "ctaButton": "Kostenlose Beratung"
+    },
+    "rhinoplastyBeforeAfterYT": {
+        "title": "Schlauchmagen: Vorher & Nachher Ergebnisse",
+        "subtitle": "Entdecken Sie die lebensverändernden Verwandlungen, die durch die Expertise von Doz. Dr. Feridun Gökçe erreicht wurden."
+    },
+    "stats": {
+        "operations": {
+            "value": "+10.000",
+            "label": "Tausende erfolgreiche Schlauchmagen-Eingriffe abgeschlossen"
+        },
+        "years": {
+            "value": "30+",
+            "label": "Jahre Erfahrung in der bariatrischen Chirurgie"
+        },
+        "recommend": {
+            "value": "95%",
+            "label": "der Patienten empfehlen Doz. Dr. Feridun Gökçe"
+        },
+        "satisfaction": {
+            "value": "98%",
+            "label": "Patientenzufriedenheitsrate nach Schlauchmagen-Eingriffen"
+        }
+    },
+    "testimonials": {
+        "title": "Patientengeschichten über Verwandlung und Vertrauen",
+        "titleLine1": "Patientengeschichten über",
+        "titleLine2": "Verwandlung und",
+        "titleLine3": "Vertrauen",
+        "subtitle": "Wir lieben unsere Patienten, aber verlassen Sie sich nicht nur auf unser Wort. Sehen Sie selbst, was sie über uns sagen!",
+        "ctaButton": "Jetzt Veränderungen starten!",
+        "patientLabel": "Patient",
+        "reviews": [
+            {
+                "text": "Ich habe meine Schlauchmagen-OP bei Doz. Dr. Feridun Gökçe durchführen lassen und bin mehr als zufrieden mit dem Ergebnis. Dank seines Fachwissens, seiner aufmerksamen Betreuung und seiner beruhigenden Art vor und nach der Operation habe ich mich bei jedem Schritt sicher und zuversichtlich gefühlt.",
+                "name": "Sarah Johnson",
+                "patient": "Patientin: Sarah Johnson",
+                "country": "DE"
+            },
+            {
+                "text": "Die Operation verlief perfekt und ich sehe bereits erstaunliche Ergebnisse. Die gesamte Erfahrung – vom Eingriff bis zur Genesung – war nahtlos, und jeder Schritt war von wertvollen Ratschlägen und erstklassiger Betreuung begleitet.",
+                "name": "Michael Brown",
+                "patient": "Patient: Michael Brown",
+                "country": "DE"
+            },
+            {
+                "text": "Ich habe bereits erheblich an Gewicht verloren und fühle mich großartig. Insgesamt kann ich Doz. Dr. Feridun Gökçe und sein Team jedem, der eine Gewichtsverlust-Operation in Erwägung zieht, wärmstens empfehlen!",
+                "name": "Emma Wilson",
+                "patient": "Patientin: Emma Wilson",
+                "country": "DE"
+            }
+        ]
+    },
+    "whyDoctor": {
+        "title": "Warum Doz. Dr. Feridun Gökçe wählen?",
+        "titleLine1": "Warum sollten Sie Doz. Dr.",
+        "titleLine2": "Feridun Gökçe für Ihren",
+        "titleLine3": "Schlauchmagen wählen?",
+        "ctaButton": "Kostenlose Beratung",
+        "features": {
+            "leadership": {
+                "label": "Führung:",
+                "text": "Geleitet von Doz. Dr. Feridun Gökçe, Experte für bariatrische Chirurgie."
+            },
+            "expertise": {
+                "label": "Expertise:",
+                "text": "Personalisierte bariatrische Chirurgie-Ansätze, die sorgfältig auf die individuellen Bedürfnisse jedes Patienten zugeschnitten sind."
+            },
+            "scientific": {
+                "label": "Wissenschaftliche Exzellenz:",
+                "text": "Fortschrittliche chirurgische Techniken und umfassende prä- und postoperative Betreuungsprogramme."
+            },
+            "technology": {
+                "label": "Technologie:",
+                "text": "Modernste chirurgische Methoden unter Verwendung neuester laparoskopischer Technologie."
+            },
+            "guarantee": {
+                "label": "Garantie:",
+                "text": "Anerkannt für Erfolg und Sicherheit, bietet den Patienten Vertrauen und umfassende Nachsorge-Unterstützung."
+            }
+        }
+    },
+    "whyTurkey": {
+        "title": "Warum die Türkei für Ihren Schlauchmagen wählen?",
+        "reasons": {
+            "affordable": {
+                "title": "Erschwingliche Preise:",
+                "description": "Die Türkei bietet Schlauchmagen-Operationen zu wettbewerbsfähigeren Preisen als viele europäische Länder an, bei gleichzeitig hohen medizinischen Standards."
+            },
+            "geographic": {
+                "title": "Geografischer Vorteil:",
+                "description": "Mit Istanbul als globalem Drehkreuz können Patienten die Operation mit kulturellen Erlebnissen verbinden."
+            },
+            "techniques": {
+                "title": "Fortschrittliche Techniken:",
+                "description": "Türkische Chirurgen sind in modernen bariatrischen Operationstechniken versiert und erzielen sichere und effektive Ergebnisse."
+            },
+            "technology": {
+                "title": "Spitzentechnologie:",
+                "description": "Krankenhäuser verwenden moderne chirurgische Instrumente und innovative Genesungsmethoden für sichere Operationen."
+            }
+        }
+    },
+    "journey": {
+        "titleLine1": "Wie wird Ihre",
+        "titleLine2": "Schlauchmagen-Reise verlaufen?",
+        "steps": [
+            "Online-Beratung",
+            "Ankunft in Istanbul",
+            "Präoperative Tests",
+            "Untersuchung bei Doz. Dr. Feridun Gökçe",
+            "Planung des Operationstages",
+            "Schlauchmagen-Operation",
+            "Postoperative Betreuung",
+            "Diät- und Ernährungsplan",
+            "Regelmäßige Nachuntersuchungen",
+            "Abreise",
+            "Gesunder neuer Lebensstil"
+        ]
+    },
+    "techniques": {
+        "title": "Bariatrische Chirurgietechniken",
+        "items": [
+            "Schlauchmagen",
+            "Magenbypass",
+            "Mini-Magenbypass",
+            "Revisionschirurgie"
+        ]
+    }
+}
