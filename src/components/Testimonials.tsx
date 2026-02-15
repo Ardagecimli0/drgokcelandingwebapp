@@ -11,18 +11,18 @@ export default function Testimonials() {
         <div className="flex flex-col lg:flex-row gap-16 items-start">
 
           {/* Sol Taraf - Başlık ve Parlayan Buton */}
-          <div className="lg:w-[32%] flex flex-col pt-2">
+          <div className="lg:w-[32%] flex flex-col pt-2 items-center lg:items-start text-center lg:text-left">
             <h2 className="text-3xl md:text-4xl font-bold text-[#c9a96e] mb-6 leading-tight tracking-tight">
               {t('testimonials.titleLine1')}<br />
               {t('testimonials.titleLine2')}<br />
               {t('testimonials.titleLine3')}
             </h2>
-            <p className="text-gray-300 text-base mb-10 max-w-[300px] leading-relaxed">
+            <p className="text-gray-300 text-base mb-10 max-w-[300px] mx-auto lg:mx-0 leading-relaxed">
               {t('testimonials.subtitle')}
             </p>
 
             {/* Parlayan ve Zıplayan Buton */}
-            <div className="relative group w-full sm:w-60">
+            <div className="relative group w-full sm:w-60 mx-auto lg:mx-0">
               {/* Alt Parlama Efekti */}
               <div className="absolute -inset-1 bg-[#22c55e] rounded-lg blur opacity-25 group-hover:opacity-75 transition duration-1000 group-hover:duration-200"></div>
 
