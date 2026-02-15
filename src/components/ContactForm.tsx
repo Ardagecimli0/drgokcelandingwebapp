@@ -146,7 +146,7 @@ export default function ContactForm() {
         language: locale.toUpperCase(),
         source_language: locale.toUpperCase(),
         ip: "",
-        doctor: "Cevre Dent",
+        doctor: "Dr Gokce",
         interest: ["Bariatric"],
         procedure: [],
         utm_source: "",
@@ -161,7 +161,7 @@ export default function ContactForm() {
       console.log("Sending to Zoho:", payload);
 
       // Submit the form data to the API
-      const response = await fetch(`https://zoho.hotelistan.net/api/form-patient`, {
+      const response = await fetch(`https://cevre.hotelistan.net/api/form-patient`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
