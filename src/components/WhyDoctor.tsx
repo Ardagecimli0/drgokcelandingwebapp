@@ -38,7 +38,7 @@ export default function WhyDoctor() {
           {/* Left Side - Features */}
           <div className="flex flex-col">
             <div className="mb-6">
-              <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 leading-[1.1]">
+              <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-4 leading-[1.1]">
                 {t('whyDoctor.titleLine1')}<br />
                 {t('whyDoctor.titleLine2')}<br />
                 {t('whyDoctor.titleLine3')}
@@ -67,8 +67,6 @@ export default function WhyDoctor() {
             <div className="mt-8">
               <a
                 href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
-                target="_blank"
-                rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#22c55e] hover:bg-[#1da850] px-8 py-4 rounded-full text-white font-bold transition-all duration-300 hover:scale-105 shadow-lg"
               >
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
@@ -92,7 +90,7 @@ export default function WhyDoctor() {
             ) : (
               <div onClick={() => setIsPlaying(true)} className="relative w-full h-full cursor-pointer group">
                 <img
-                  src="/images/why-doctor-thumbnail.png"
+                  src="/images/cover123.png"
                   alt="Video Thumbnail"
                   className="w-full h-full object-cover transition-all duration-300 group-hover:scale-105 group-hover:brightness-75"
                 />

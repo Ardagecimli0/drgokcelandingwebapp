@@ -26,7 +26,7 @@ export const metadata = {
     description: enDental.meta.description,
     keywords: enDental.meta.keywords,
     icons: {
-        icon: "/favicon.ico",
+        icon: "/images/favicon.svg",
     },
 };
 

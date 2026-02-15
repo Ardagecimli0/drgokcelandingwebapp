@@ -36,6 +36,14 @@ export default function DoctorInfo() {
   return (
     <section className="py-16 bg-gradient-to-b from-[#1c2530] to-[#151b23]">
       <div className="max-w-7xl mx-auto px-4">
+        {/* Video Title */}
+        <h2 className="text-3xl md:text-4xl font-bold text-white text-center mb-6">
+          {t('doctorInfo.videoTitle')}
+        </h2>
+        <div className="flex justify-center mb-6">
+          <div className="w-20 h-1 bg-[#c9a96e] rounded-full"></div>
+        </div>
+
         {/* Doctor Video */}
         <div className="max-w-2xl mx-auto mb-12 aspect-video group cursor-pointer relative rounded-xl overflow-hidden">
           {isPlaying ? (
@@ -102,8 +110,6 @@ export default function DoctorInfo() {
             <span className="text-gray-400 text-sm">{t('doctorInfo.or')}</span>
             <a
               href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
-              target="_blank"
-              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 w-full max-w-xs px-8 py-4 rounded-full border-2 border-[#25D366] text-[#25D366] font-semibold hover:bg-[#25D366]/10 transition active:scale-95"
             >
               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
@@ -131,8 +137,6 @@ export default function DoctorInfo() {
             <span className="flex items-center text-gray-400">{t('doctorInfo.or')}</span>
             <a
               href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
-              target="_blank"
-              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-4 rounded-full border border-[#25D366] text-[#25D366] font-semibold hover:bg-[#25D366]/10 transition active:scale-95"
             >
               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">

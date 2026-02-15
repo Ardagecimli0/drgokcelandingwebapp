@@ -8,15 +8,15 @@ export default function Packages() {
   const packages = [
     {
       title: t('packages.gastricSleeve.title'),
-      features: tArray<string>('packages.gastricSleeve.features'),
+      features: tArray < string > ('packages.gastricSleeve.features'),
     },
     {
       title: t('packages.gastricBypass.title'),
-      features: tArray<string>('packages.gastricBypass.features'),
+      features: tArray < string > ('packages.gastricBypass.features'),
     },
     {
       title: t('packages.miniGastricBypass.title'),
-      features: tArray<string>('packages.miniGastricBypass.features'),
+      features: tArray < string > ('packages.miniGastricBypass.features'),
     },
   ];
 
@@ -43,8 +43,6 @@ export default function Packages() {
                     <li key={i}>
                       <a
                         href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
-                        target="_blank"
-                        rel="noopener noreferrer"
                         className="flex items-start gap-3 text-gray-300 text-sm hover:text-white transition-all cursor-pointer underline underline-offset-4 decoration-[#c9a96e]/40 hover:decoration-[#c9a96e]"
                       >
                         <span className="text-[#c9a96e] mt-0.5 flex-shrink-0">•</span>
@@ -55,8 +53,6 @@ export default function Packages() {
                 </ul>
                 <a
                   href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
-                  target="_blank"
-                  rel="noopener noreferrer"
                   className="bg-[#22c55e] hover:bg-[#1da850] py-4 px-6 rounded-full text-white font-bold text-center flex items-center justify-center gap-2 transition-all duration-300 hover:scale-105 shadow-lg"
                 >
                   <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">

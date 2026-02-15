@@ -235,14 +235,14 @@ export default function ContactForm() {
 
                   {/* Phone Input */}
                   <div className="flex gap-2">
-                    <div className="relative w-[90px] shrink-0">
+                    <div className="relative w-[100px] shrink-0">
                       <span className={`fi fi-${selectedIso.toLowerCase()} absolute left-2 top-1/2 -translate-y-1/2 z-10 pointer-events-none`}></span>
-                      <span className="absolute left-7 top-1/2 -translate-y-1/2 z-10 text-white text-xs pointer-events-none">{countryCode}</span>
+                      <span className="absolute left-9 top-1/2 -translate-y-1/2 z-10 text-white text-xs pointer-events-none">{countryCode}</span>
                       <select
                         value={selectedIso}
                         onChange={handleCountryChange}
                         style={{ backgroundImage: "url('data:image/svg+xml;charset=UTF-8,%3csvg width=%2712%27 height=%278%27 viewBox=%270 0 12 8%27 fill=%27none%27 xmlns=%27http://www.w3.org/2000/svg%27%3e%3cpath d=%27M1 1L6 6L11 1%27 stroke=%27white%27 stroke-width=%272%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27/%3e%3c/svg%3e')", backgroundPosition: 'right 0.3rem center', backgroundRepeat: 'no-repeat' }}
-                        className="w-[90px] h-[48px] pl-7 py-3 pr-5 rounded-lg bg-[#0c1015] border border-gray-700 text-transparent text-xs focus:border-[#25D366] outline-none appearance-none cursor-pointer"
+                        className="w-[100px] h-[48px] pl-9 py-3 pr-5 rounded-lg bg-[#0c1015] border border-gray-700 text-transparent text-xs focus:border-[#25D366] outline-none appearance-none cursor-pointer"
                       >
                         {Object.keys(countryToDialCode).sort().map((iso) => (
                           <option key={iso} value={iso} className="text-white bg-[#0c1015]">{countryNames[iso] || iso} {countryToDialCode[iso]}</option>

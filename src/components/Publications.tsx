@@ -33,8 +33,6 @@ export default function Publications() {
             <div className="flex justify-center lg:justify-start">
               <a
                 href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
-                target="_blank"
-                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-3 bg-[#2ecc71] hover:bg-[#27ae60] px-8 py-3 md:px-10 md:py-4 rounded-full text-white font-bold text-base md:text-lg transition-all duration-300 hover:scale-105 shadow-[0_0_20px_rgba(46,204,113,0.4)]"
               >
                 <svg

@@ -111,8 +111,6 @@ export default function BeforeAfter() {
             <div className="mt-8">
               <a
                 href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
-                target="_blank"
-                rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#22c55e] px-8 py-4 rounded-full text-white font-bold hover:scale-105 transition-transform shadow-lg"
               >
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">

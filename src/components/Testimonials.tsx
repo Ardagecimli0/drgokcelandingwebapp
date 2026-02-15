@@ -28,8 +28,6 @@ export default function Testimonials() {
 
               <a
                 href="https://api.whatsapp.com/send/?phone=905467633721&text&type=phone_number&app_absent=0"
-                target="_blank"
-                rel="noopener noreferrer"
                 className="relative flex items-center justify-center w-full bg-[#22c55e] hover:bg-[#1da850] text-white text-center py-3.5 rounded-lg font-bold text-base transition-all duration-300 hover:-translate-y-2 active:translate-y-0 shadow-xl"
               >
                 {t('testimonials.ctaButton')}
@@ -39,7 +37,7 @@ export default function Testimonials() {
 
           {/* Sağ Taraf - Hover Efektli Kartlar */}
           <div className="lg:w-[68%] grid grid-cols-1 md:grid-cols-3 gap-5">
-            {tArray<{ text: string, name: string, country: string }>('testimonials.reviews').map((review, index) => (
+            {tArray < { text: string, name: string, country: string } > ('testimonials.reviews').map((review, index) => (
               <div key={index} className="bg-[#1c2530] rounded-xl p-6 flex flex-col justify-between min-h-[300px] md:min-h-[440px] border border-gray-800/60 shadow-xl transition-all duration-300 hover:-translate-y-4 hover:border-[#c9a96e]/50 group">
                 <div className="relative">
                   <p className="text-gray-300 text-sm leading-relaxed pr-3 h-[200px] md:h-[300px] overflow-y-auto scrollbar-thin scrollbar-thumb-gray-700">
