@@ -8,22 +8,26 @@ export default function Testimonials() {
   return (
     <section className="pt-10 lg:pt-24 pb-10 lg:pb-20 bg-[#0c1015]">
       <div className="max-w-7xl mx-auto px-6 lg:px-12">
-        <div className="flex flex-col lg:flex-row gap-16 items-start">
+        <div className="flex flex-col lg:flex-row gap-16 items-center lg:items-start">
 
-          {/* Sol Taraf - Başlık ve Parlayan Buton */}
-          <div className="lg:w-[32%] flex flex-col pt-2 items-center lg:items-start text-center lg:text-left">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#c9a96e] mb-6 leading-tight tracking-tight">
+          {/* Sol Taraf - Başlık, Alt Metin ve Buton */}
+          <div className="w-full lg:w-[32%] flex flex-col pt-2 items-center lg:items-start text-center lg:text-left">
+
+            {/* Başlık: Mobilde mx-auto ile ortalandı */}
+            <h2 className="text-3xl md:text-4xl font-bold text-[#c9a96e] mb-6 leading-tight tracking-tight mx-auto lg:mx-0">
               {t('testimonials.titleLine1')}<br />
               {t('testimonials.titleLine2')}<br />
               {t('testimonials.titleLine3')}
             </h2>
-            <p className="text-gray-300 text-base mb-10 max-w-[300px] mx-auto lg:mx-0 leading-relaxed">
+
+            {/* Alt Metin: Mobilde ortalı, masaüstünde sola yaslı */}
+            <p className="text-gray-300 text-base mb-10 max-w-[320px] lg:max-w-none mx-auto lg:mx-0 leading-relaxed">
               {t('testimonials.subtitle')}
             </p>
 
-            {/* Parlayan ve Zıplayan Buton */}
-            <div className="relative group w-full sm:w-60 mx-auto lg:mx-0">
-              {/* Alt Parlama Efekti */}
+            {/* Buton Kapsayıcısı: Mobilde ortalanmış yapı */}
+            <div className="relative group w-full max-w-[280px] sm:max-w-xs mx-auto lg:mx-0">
+              {/* Parlama Efekti */}
               <div className="absolute -inset-1 bg-[#22c55e] rounded-lg blur opacity-25 group-hover:opacity-75 transition duration-1000 group-hover:duration-200"></div>
 
               <a
@@ -35,7 +39,7 @@ export default function Testimonials() {
             </div>
           </div>
 
-          {/* Sağ Taraf - Hover Efektli Kartlar */}
+          {/* Sağ Taraf - Kullanıcı Yorum Kartları */}
           <div className="lg:w-[68%] grid grid-cols-1 md:grid-cols-3 gap-5">
             {tArray < { text: string, name: string, country: string } > ('testimonials.reviews').map((review, index) => (
               <div key={index} className="bg-[#1c2530] rounded-xl p-6 flex flex-col justify-between min-h-[300px] md:min-h-[440px] border border-gray-800/60 shadow-xl transition-all duration-300 hover:-translate-y-4 hover:border-[#c9a96e]/50 group">
@@ -45,8 +49,8 @@ export default function Testimonials() {
                   </p>
                   <div className="absolute right-0 top-0 w-1 h-16 bg-[#c9a96e]/15 group-hover:bg-[#c9a96e]/40 transition-colors rounded-full"></div>
                 </div>
-                <div className="mt-0 pt-0 border-t border-gray-800/80">
-                  <p className="text-white font-semibold text-sm mb-0">
+                <div className="mt-4 pt-4 border-t border-gray-800/80">
+                  <p className="text-white font-semibold text-sm mb-1">
                     {t('testimonials.patientLabel')}: {review.name} <span className="text-gray-500 text-xs ml-1 font-normal">{review.country}</span>
                   </p>
                   <div className="flex gap-1 text-yellow-500">
