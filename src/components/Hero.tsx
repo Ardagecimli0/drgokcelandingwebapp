@@ -151,7 +151,7 @@ export default function Hero() {
         language: locale.toUpperCase(),
         source_language: locale.toUpperCase(),
         ip: "",
-        doctor: "CevreDent",
+        doctor: "Dr. Gokce",
         interest: ["Bariatric"],
         procedure: [],
         utm_source: "",
