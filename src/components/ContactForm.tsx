@@ -161,7 +161,7 @@ export default function ContactForm() {
       console.log("Sending to Zoho:", payload);
 
       // Submit the form data to the API
-      const response = await fetch(`https://cevre.hotelistan.net/api/form-patient`, {
+      const response = await fetch(`https://zoho.hotelistan.net/api/form-patient`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
