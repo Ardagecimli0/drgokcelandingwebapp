@@ -276,5 +276,10 @@
             "Mini Gastrik Bypass",
             "Revizyon Cerrahisi"
         ]
+    },
+    "thankYou": {
+        "title": "Teşekkür Ederiz",
+        "message": "Formunuz bize ulaştı. En kısa sürede sizinle iletişime geçeceğiz.",
+        "backToHome": "Ana Sayfaya Dön"
     }
 }

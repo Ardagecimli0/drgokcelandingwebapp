@@ -276,5 +276,10 @@
             "Mini Bypass Gástrico",
             "Cirugía de Revisión"
         ]
+    },
+    "thankYou": {
+        "title": "Gracias",
+        "message": "Hemos recibido su formulario. Nos pondremos en contacto con usted pronto.",
+        "backToHome": "Volver al inicio"
     }
 }

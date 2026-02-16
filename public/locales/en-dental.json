@@ -276,5 +276,10 @@
             "Mini Gastric Bypass",
             "Revision Surgery"
         ]
+    },
+    "thankYou": {
+        "title": "Thank You",
+        "message": "We have received your form. We will contact you soon.",
+        "backToHome": "Back to Home"
     }
 }

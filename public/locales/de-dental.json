@@ -276,5 +276,10 @@
             "Mini-Magenbypass",
             "Revisionschirurgie"
         ]
+    },
+    "thankYou": {
+        "title": "Dankeschön",
+        "message": "Wir haben Ihr Formular erhalten. Wir werden Sie bald kontaktieren.",
+        "backToHome": "Zurück zur Startseite"
     }
 }

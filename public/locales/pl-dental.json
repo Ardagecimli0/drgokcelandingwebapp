@@ -276,5 +276,10 @@
             "Mini Bypass Żołądka",
             "Chirurgia Rewizyjna"
         ]
+    },
+    "thankYou": {
+        "title": "Dziękujemy",
+        "message": "Otrzymaliśmy Twój formularz. Skontaktujemy się z Tobą wkrótce.",
+        "backToHome": "Powrót do strony głównej"
     }
 }
