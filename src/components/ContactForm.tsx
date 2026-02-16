@@ -155,13 +155,13 @@ export default function ContactForm() {
         utm_matchtype: "",
         utm_network: "",
         gclid: "",
-        lead_source_detail: "Cevredent Turkey Web App",
+        lead_source_detail: "",
       };
 
       console.log("Sending to Zoho:", payload);
 
       // Submit the form data to the API
-      const response = await fetch(`https://zoho.hotelistan.net/api/form-patient`, {
+      const response = await fetch(`https://cevre.hotelistan.net/api/form-patient`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

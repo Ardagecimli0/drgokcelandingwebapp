@@ -280,6 +280,6 @@
     "thankYou": {
         "title": "Gracias",
         "message": "Hemos recibido su formulario. Nos pondremos en contacto con usted pronto.",
-        "backToHome": "Volver al inicio"
+        "contactUs": "¡Contáctenos ahora!"
     }
 }
