@@ -17,7 +17,7 @@ export function extractLocaleFromSlug(slug: string): string {
     const slugToLocale: Record<string, string> = {
         'gastric-sleeve-in-turkey': 'en',
         'tup-mide-ameliyati-turkiye': 'tr',
-        'schlauchmagen-op-in-der-tuerkei': 'de',
+        'schlauchmagen-in-der-turkei': 'de',
         'manga-gastrica-en-turquia': 'es',
         'sleeve-gastrectomie-en-turquie': 'fr',
         'manica-gastrica-in-turchia': 'it',

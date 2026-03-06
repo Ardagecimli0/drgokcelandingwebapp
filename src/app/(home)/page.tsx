@@ -28,6 +28,10 @@ export const metadata = {
     icons: {
         icon: "/images/favicon.svg",
     },
+    robots: {
+        index: false,
+        follow: false,
+    },
 };
 
 export default function HomePage() {

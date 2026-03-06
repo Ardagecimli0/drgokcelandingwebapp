@@ -24,7 +24,7 @@ export async function generateStaticParams() {
     return [
         { lang: 'gastric-sleeve-in-turkey' },
         { lang: 'tup-mide-ameliyati-turkiye' },
-        { lang: 'schlauchmagen-op-in-der-tuerkei' },
+        { lang: 'schlauchmagen-in-der-turkei' },
         { lang: 'manga-gastrica-en-turquia' },
         { lang: 'sleeve-gastrectomie-en-turquie' },
         { lang: 'manica-gastrica-in-turchia' },
