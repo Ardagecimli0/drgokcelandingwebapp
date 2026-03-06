@@ -281,5 +281,11 @@
         "title": "Merci",
         "message": "Nous avons bien reçu votre formulaire. Nous vous contacterons bientôt.",
         "contactUs": "Contactez-nous maintenant !"
+    },
+    "cookieConsent": {
+        "title": "Nous utilisons des cookies",
+        "description": "Nous utilisons des cookies pour améliorer votre expérience. En continuant à visiter ce site, vous acceptez notre utilisation des cookies.",
+        "accept": "Tout accepter",
+        "viewPreferences": "Gérer les préférences"
     }
 }

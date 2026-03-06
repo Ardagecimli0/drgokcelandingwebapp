@@ -281,5 +281,11 @@
         "title": "Thank You",
         "message": "We have received your form. We will contact you soon.",
         "contactUs": "Contact Us Now!"
+    },
+    "cookieConsent": {
+        "title": "We use cookies",
+        "description": "We use cookies to improve your experience. By continuing to visit this site you agree to our use of cookies.",
+        "accept": "Accept all",
+        "viewPreferences": "Manage Preferences"
     }
 }

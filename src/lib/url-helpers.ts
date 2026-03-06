@@ -3,7 +3,7 @@
 export const localeToSlug: Record<string, string> = {
     'en': 'gastric-sleeve-in-turkey',
     'tr': 'tup-mide-ameliyati-turkiye',
-    'de': 'schlauchmagen-op-in-der-tuerkei',
+    'de': 'schlauchmagen-in-der-turkei',
     'es': 'manga-gastrica-en-turquia',
     'fr': 'sleeve-gastrectomie-en-turquie',
     'it': 'manica-gastrica-in-turchia',
@@ -13,7 +13,7 @@ export const localeToSlug: Record<string, string> = {
 export const slugToLocale: Record<string, string> = {
     'gastric-sleeve-in-turkey': 'en',
     'tup-mide-ameliyati-turkiye': 'tr',
-    'schlauchmagen-op-in-der-tuerkei': 'de',
+    'schlauchmagen-in-der-turkei': 'de',
     'manga-gastrica-en-turquia': 'es',
     'sleeve-gastrectomie-en-turquie': 'fr',
     'manica-gastrica-in-turchia': 'it',

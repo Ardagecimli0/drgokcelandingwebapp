@@ -281,5 +281,11 @@
         "title": "Teşekkür Ederiz",
         "message": "Formunuz bize ulaştı. En kısa sürede sizinle iletişime geçeceğiz.",
         "contactUs": "Hemen Bize Ulaşın!"
+    },
+    "cookieConsent": {
+        "title": "Çerez kullanıyoruz",
+        "description": "Deneyiminizi geliştirmek için çerezleri kullanıyoruz. Bu siteyi ziyaret etmeye devam ederek çerez kullanımımızı kabul etmiş olursunuz.",
+        "accept": "Tümünü kabul et",
+        "viewPreferences": "Tercihleri Yönet"
     }
 }
